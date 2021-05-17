@@ -1,0 +1,6 @@
+2021/05/17-11:25:22.633 5 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/17-11:25:22.639 5 Recovering log #6
+2021/05/17-11:25:22.639 5 Reusing old log /home/darshan/.config/chromium/Default/Local Storage/leveldb/000006.log 
+2021/05/17-11:26:20.399 3 Level-0 table #10: started
+2021/05/17-11:26:20.405 3 Level-0 table #10: 84808 bytes OK
+2021/05/17-11:26:20.412 3 Delete type=0 #6
