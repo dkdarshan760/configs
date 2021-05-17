@@ -2,4 +2,5 @@
 update_info=spectacle_newConfig.upd:spectacle-new-config
 
 [GuiConfig]
+onClickChecked=true
 window-position=46,64

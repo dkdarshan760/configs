@@ -1,0 +1,112 @@
+[2021-05-17 18:30:00.688] [exthost] [info] extension host started
+[2021-05-17 18:30:00.763] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-05-17 18:30:00.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-05-17 18:30:00.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:css"}
+[2021-05-17 18:30:00.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-17 18:30:00.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-17 18:30:00.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-05-17 18:30:00.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-17 18:30:00.779] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-05-17 18:30:00.792] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-05-17 18:30:00.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/vscodevim.vim-1.20.2/out/extension
+[2021-05-17 18:30:00.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-17 18:30:00.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-05-17 18:30:00.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-17 18:30:00.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-05-17 18:30:01.007] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-17 18:30:01.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-17 18:30:01.190] [exthost] [info] eager extensions activated
+[2021-05-17 18:30:01.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-17 18:30:01.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-17 18:30:01.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-17 18:30:01.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-17 18:30:01.409] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-05-17 18:33:56.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-05-17 18:33:56.124] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-05-17 18:34:03.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-05-17 18:34:03.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-05-17 18:35:16.185] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-05-17 18:35:16.186] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.4)
+Debug Failure. Expected export symbol to have a parent
+Error: Debug Failure. Expected export symbol to have a parent
+    at getReferencedSymbolsForSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123916:94)
+    at Object.getReferencedSymbolsForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123686:34)
+    at Object.getReferenceEntriesForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123351:40)
+    at getSemanticDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121958:57)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121946:20)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:149331:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:159987:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:159315:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:70680)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:64555)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:63414)
+    at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:62924
+    at fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:433224)
+    at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:432872)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-05-17 18:35:20.973] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-05-17 18:35:20.973] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.4)
+Debug Failure. Expected export symbol to have a parent
+Error: Debug Failure. Expected export symbol to have a parent
+    at getExportAssignmentExport (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:122961:58)
+    at getExport (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:122942:32)
+    at Object.getImportOrExportSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:122906:53)
+    at getImportOrExportReferences (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:124508:56)
+    at getReferencesAtLocation (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:124438:17)
+    at getReferencesInContainer (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:124382:21)
+    at getReferencesInContainerOrFiles (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123929:21)
+    at getReferencedSymbolsForSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123920:21)
+    at Object.getReferencedSymbolsForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123686:34)
+    at Object.getReferenceEntriesForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:123351:40)
+    at getSemanticDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121958:57)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121946:20)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:149331:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:159987:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:159315:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:70680)
+    at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:64555)
+    at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:63414)
+    at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:62924
+    at fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:433224)
+    at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:432872)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-05-17 18:35:45.690] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-17 18:35:46.712] [exthost] [info] exiting with code 0

@@ -1,0 +1,7 @@
+[2021-05-17 18:43:58.802] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-05-17 18:44:10.642] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/darshan/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-6.4.0
+[2021-05-17 18:44:10.956] [sharedprocess] [info] Extracted extension to /home/darshan/.vscode-oss/extensions/.b07c588a-3c8d-45c0-8f7d-c7de16a02781: esbenp.prettier-vscode
+[2021-05-17 18:44:10.967] [sharedprocess] [info] Renamed to /home/darshan/.vscode-oss/extensions/esbenp.prettier-vscode-6.4.0
+[2021-05-17 18:44:10.969] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-05-17 18:44:10.977] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-05-17 18:44:15.008] [sharedprocess] [info] Starting to clean up unused language packs.

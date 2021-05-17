@@ -3,7 +3,13 @@
     "openedPathsList": {
         "entries": [
             {
-                "folderUri": "file:///home/darshan/Projects/React-Projects/project"
+                "folderUri": "file:///home/darshan/personalportfolio"
+            },
+            {
+                "folderUri": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts"
+            },
+            {
+                "fileUri": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts/src/App.js"
             }
         ]
     },
@@ -51,13 +57,37 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/darshan/Projects/React-Projects/project",
-                                        "external": "file:///home/darshan/Projects/React-Projects/project",
-                                        "path": "/home/darshan/Projects/React-Projects/project",
+                                        "fsPath": "/home/darshan/personalportfolio",
+                                        "external": "file:///home/darshan/personalportfolio",
+                                        "path": "/home/darshan/personalportfolio",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/React-Projects/project"
+                                    "label": "~/personalportfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts",
+                                        "path": "/home/darshan/Projects/ReactProjects/sanskritpodcasts",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/ReactProjects/sanskritpodcasts"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/darshan/Projects/ReactProjects/sanskritpodcasts/src/App.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/ReactProjects/sanskritpodcasts/src/App.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -568,8 +598,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -578,8 +607,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -790,21 +818,18 @@
                     },
                     {
                         "id": "workbench.action.debug.stop",
-                        "label": "&&Stop Debugging",
-                        "enabled": false
+                        "label": "&&Stop Debugging"
                     },
                     {
                         "id": "workbench.action.debug.restart",
-                        "label": "&&Restart Debugging",
-                        "enabled": false
+                        "label": "&&Restart Debugging"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations",
-                        "enabled": false
+                        "label": "Open &&Configurations"
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -896,7 +921,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1447,8 +1473,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/darshan/Projects/React-Projects/project",
-            "backupPath": "/home/darshan/.config/Code - OSS/Backups/9a3ec3d44f147aa61dbc86afbd18f452",
+            "folder": "file:///home/darshan/personalportfolio",
+            "backupPath": "/home/darshan/.config/Code - OSS/Backups/c2a0f4c6e31c230c8a680ecc27dc4a93",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1459,5 +1485,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/darshan/Projects/React-Projects"
+    "pickerWorkingDir": "/home/darshan"
 }
