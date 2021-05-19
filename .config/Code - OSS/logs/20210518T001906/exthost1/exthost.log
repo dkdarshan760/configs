@@ -51,3 +51,5 @@
 [2021-05-18 00:20:09.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/dart-code.flutter-3.22.0/out/src/extension
 [2021-05-18 00:21:03.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
 [2021-05-18 00:21:03.771] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-server-ready/dist/extension
+[2021-05-18 01:40:40.344] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-18 01:40:41.363] [exthost] [info] exiting with code 0

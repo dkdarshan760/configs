@@ -2,5 +2,6 @@
 update_info=spectacle_newConfig.upd:spectacle-new-config
 
 [GuiConfig]
+captureMode=3
 onClickChecked=true
 window-position=46,64

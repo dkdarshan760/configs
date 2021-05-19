@@ -127,8 +127,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="1157.66"
-         height="821.898"
+         width="436.57"
+         height="250.748"
          ry="0" />
       <eventcontext
          id="3dbox"
@@ -165,8 +165,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="167.952"
-         ry="167.952" />
+         rx="540.868"
+         ry="540.868" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -340,8 +340,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="969.426"
-       y="685.598"
+       x="-120.569"
+       y="1878.12"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -394,7 +394,8 @@
     <eventcontext
        id="connector"
        style="fill:none;fill-rule:evenodd;stroke:black;stroke-opacity:1;stroke-linejoin:miter;stroke-width:1px;stroke-linecap:butt;"
-       selcue="1" />
+       selcue="1"
+       curvature="0" />
     <eventcontext
        id="paintbucket"
        style="fill:#a0a0a0;stroke:none;"
@@ -545,11 +546,11 @@
        page="0"
        x="0"
        y="0"
-       w="329"
-       h="498"
-       visible="0"
+       w="435"
+       h="471"
+       visible="1"
        state="2"
-       placement="1" />
+       placement="2" />
     <group
        id="filtereffects" />
     <group
@@ -588,11 +589,20 @@
        id="export"
        default=""
        append_extension="1"
-       path="">
+       path=""
+       x="0"
+       y="0"
+       w="435"
+       h="479"
+       visible="1"
+       state="2"
+       placement="1">
       <group
-         id="exportarea" />
+         id="exportarea"
+         value="drawing" />
       <group
-         id="defaultxdpi" />
+         id="defaultxdpi"
+         value="157.2" />
     </group>
     <group
        id="save_as"
@@ -610,7 +620,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="" />
+       path="/home/darshan/Desktop/InkscapeProjects/" />
     <group
        id="import"
        enable_preview="1"
@@ -954,7 +964,7 @@
      org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality" />
   <group
      id="desktop"
-     style="fill:#000000;opacity:0">
+     style="fill:#ffffff;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;opacity:0">
     <group
        width="640"
        height="480"

@@ -1,0 +1,6 @@
+2021/05/19-07:22:26.804 169e Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2021/05/19-07:22:26.813 169e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/19-07:22:58.814 16a9 Level-0 table #5: started
+2021/05/19-07:22:58.825 16a9 Level-0 table #5: 2018 bytes OK
+2021/05/19-07:22:58.829 16a9 Delete type=0 #3
+2021/05/19-07:22:58.830 16a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

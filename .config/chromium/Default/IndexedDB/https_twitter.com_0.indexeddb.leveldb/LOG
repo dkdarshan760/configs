@@ -1,0 +1,6 @@
+2021/05/18-09:13:12.003 317f Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2021/05/18-09:13:12.019 317f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/18-09:14:20.960 317f Level-0 table #5: started
+2021/05/18-09:14:20.971 317f Level-0 table #5: 3277 bytes OK
+2021/05/18-09:14:20.975 317f Delete type=0 #3
+2021/05/18-09:14:20.975 317f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,2 +1,6 @@
 [General]
 AirplaneModeEnabled=false
+HotspotName=darshan-hotspot
+HotspotPassword=
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

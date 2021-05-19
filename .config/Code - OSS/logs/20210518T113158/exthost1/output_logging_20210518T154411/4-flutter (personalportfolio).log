@@ -1,0 +1,9 @@
+[personalportfolio] flutter pub get
+Running "flutter pub get" in personalportfolio...                   4.2s
+exit code 0
+
+--
+
+[personalportfolio] flutter pub get
+Running "flutter pub get" in personalportfolio...                  464ms
+exit code 0
