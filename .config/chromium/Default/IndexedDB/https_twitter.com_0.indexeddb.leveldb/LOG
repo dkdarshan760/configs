@@ -1,6 +1,15 @@
-2021/05/18-09:13:12.003 317f Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
-2021/05/18-09:13:12.019 317f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/18-09:14:20.960 317f Level-0 table #5: started
-2021/05/18-09:14:20.971 317f Level-0 table #5: 3277 bytes OK
-2021/05/18-09:14:20.975 317f Delete type=0 #3
-2021/05/18-09:14:20.975 317f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-07:52:05.016 2d9a Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-07:52:05.016 2d9a Recovering log #7
+2021/05/20-07:52:05.017 2d9a Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000007.log 
+2021/05/20-07:54:12.419 2f38 Level-0 table #12: started
+2021/05/20-07:54:12.430 2f38 Level-0 table #12: 2927 bytes OK
+2021/05/20-07:54:12.435 2f38 Delete type=0 #7
+2021/05/20-07:54:12.435 2f38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-07:54:12.435 2f38 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01%\x00u\x00s\x00e\x00r\x00:\x001\x002\x006\x004\x000\x002\x005\x001\x006\x001\x007\x000\x004\x009\x004\x003\x006\x001\x006\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 228 : 1
+2021/05/20-07:54:12.435 2f38 Compacting 1@1 + 1@2 files
+2021/05/20-07:54:12.439 2f38 Generated table #13@1: 55 keys, 1457 bytes
+2021/05/20-07:54:12.439 2f38 Compacted 1@1 + 1@2 files => 1457 bytes
+2021/05/20-07:54:12.443 2f38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/20-07:54:12.444 2f38 Delete type=2 #9
+2021/05/20-07:54:12.444 2f38 Delete type=2 #12
+2021/05/20-07:54:12.444 2f38 Manual compaction at level-1 from '\x00\x01\x01\x02\x01%\x00u\x00s\x00e\x00r\x00:\x001\x002\x006\x004\x000\x002\x005\x001\x006\x001\x007\x000\x004\x009\x004\x003\x006\x001\x006\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 228 : 1 .. (end); will stop at (end)

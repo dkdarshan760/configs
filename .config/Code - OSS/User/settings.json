@@ -13,5 +13,6 @@
         "editor.wordBasedSuggestions": false
     },
     "dart.debugExternalLibraries": true,
-    "dart.debugSdkLibraries": true
+    "dart.debugSdkLibraries": true,
+    "workbench.activityBar.visible": false
 }

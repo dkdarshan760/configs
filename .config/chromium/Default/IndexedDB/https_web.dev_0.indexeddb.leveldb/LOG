@@ -1,0 +1,6 @@
+2021/05/20-07:59:44.943 31b3 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_web.dev_0.indexeddb.leveldb since it was missing.
+2021/05/20-07:59:44.956 31b3 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_web.dev_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-08:00:31.026 31b3 Level-0 table #5: started
+2021/05/20-08:00:31.036 31b3 Level-0 table #5: 2761 bytes OK
+2021/05/20-08:00:31.040 31b3 Delete type=0 #3
+2021/05/20-08:00:31.041 31b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

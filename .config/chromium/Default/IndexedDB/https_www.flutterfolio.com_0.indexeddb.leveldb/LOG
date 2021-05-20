@@ -1,0 +1,6 @@
+2021/05/20-07:28:02.793 285a Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.flutterfolio.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-07:28:02.802 285a Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.flutterfolio.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-07:30:52.776 2c02 Level-0 table #5: started
+2021/05/20-07:30:52.783 2c02 Level-0 table #5: 1123 bytes OK
+2021/05/20-07:30:52.788 2c02 Delete type=0 #3
+2021/05/20-07:30:52.788 2c02 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,3 +1,3 @@
-2021/05/18-11:31:58.421 466b Reusing MANIFEST /home/darshan/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
-2021/05/18-11:31:58.421 466b Recovering log #3
-2021/05/18-11:31:58.421 466b Reusing old log /home/darshan/.config/Code - OSS/Local Storage/leveldb/000003.log 
+2021/05/19-21:41:15.652 1949 Reusing MANIFEST /home/darshan/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+2021/05/19-21:41:15.652 1949 Recovering log #3
+2021/05/19-21:41:15.652 1949 Reusing old log /home/darshan/.config/Code - OSS/Local Storage/leveldb/000003.log 

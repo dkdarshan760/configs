@@ -32,14 +32,11 @@ Plug 'vim-airline/vim-airline-themes'
 
 Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 
-Plug 'junegunn/fzf.vim'
-
-Plug 'junegunn/fzf.vim', { 'do' : { -> fzf#install() } }
 
 call plug#end()
 set number
 set relativenumber
-map <C-z> :w <return>
+map <C-s> :w <return>
 map <S-z> :FZF <return>
 map qq :q! <return>
 map <C-n> :NERDTreeToggle <return>
@@ -51,9 +48,10 @@ let g:coc_global_extensions = [
   \ 'coc-eslint', 
   \ 'coc-prettier', 
   \ 'coc-json',
-	\ 'coc-flutter'
+	\ 'coc-flutter',
+  \ 'coc-flutter-tools'
   \ ]
-set updatetime=300
+set updatetime=20
 
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? "\<C-n>" :

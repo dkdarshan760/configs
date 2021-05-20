@@ -1,7 +1,0 @@
-[2021-05-17 11:37:35.913] [sharedprocess] [info] Installing extension: vscodevim.vim
-[2021-05-17 11:37:57.914] [sharedprocess] [info] Starting to clean up unused language packs.
-[2021-05-17 11:38:21.551] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/darshan/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.20.2
-[2021-05-17 11:38:21.750] [sharedprocess] [info] Extracted extension to /home/darshan/.vscode-oss/extensions/.66b53a79-d5ea-4774-827e-37bfa51c0bd2: vscodevim.vim
-[2021-05-17 11:38:21.765] [sharedprocess] [info] Renamed to /home/darshan/.vscode-oss/extensions/vscodevim.vim-1.20.2
-[2021-05-17 11:38:21.770] [sharedprocess] [info] Installation completed. vscodevim.vim
-[2021-05-17 11:38:21.779] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim

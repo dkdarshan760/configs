@@ -70,7 +70,9 @@ input "type:keyboard" xkb_options caps:swapescape
     bindsym $mod+q kill
 
     # Start your launcher
-    bindsym $mod+d exec $menu
+    bindsym $mod+d exec dmenu_run -b -p "Launch Application:"  -l 5 -fn "Ubuntu-20" -sb white -sf black -nb black 
+
+ 
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -233,8 +235,8 @@ bindsym $mod+Shift+v exec brightnessctl set +5%
 exec nm-applet 
 
 bindsym Print exec sway-interactive-screenshot
-bindsym Ctrl+Shift+$mod+x exec poweroff
+bindsym Ctrl+Shift+$mod+x exec ~/.config/.bashScripts/shutdown.sh
 bindsym $mod+f1 exec alacritty --command ranger
-#for gaps
+#for 
 gaps inner 20
 gaps outer 20

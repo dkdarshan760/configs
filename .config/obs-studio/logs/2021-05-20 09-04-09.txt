@@ -1,0 +1,637 @@
+09:04:09 AM.037: CPU Name: AMD Ryzen 7 4700U with Radeon Graphics
+09:04:09 AM.037: CPU Speed: 2000.000MHz
+09:04:09 AM.038: Physical Cores: 8, Logical Cores: 8
+09:04:09 AM.038: Physical Memory: 15430MB Total, 9959MB Free
+09:04:09 AM.038: Kernel Version: Linux 5.12.3-arch1-1
+09:04:09 AM.038: Distribution: "Arch Linux" Unknown
+09:04:09 AM.038: Session Type: wayland
+09:04:09 AM.039: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+09:04:09 AM.040: Portable mode: false
+09:04:09 AM.077: OBS 26.1.2-2 (linux)
+09:04:09 AM.077: ---------------------------------
+09:04:09 AM.078: ---------------------------------
+09:04:09 AM.078: audio settings reset:
+09:04:09 AM.078: 	samples per sec: 48000
+09:04:09 AM.078: 	speakers:        2
+09:04:09 AM.079: ---------------------------------
+09:04:09 AM.079: Initializing OpenGL...
+09:04:09 AM.161: Loading up OpenGL on adapter AMD AMD RENOIR (DRM 3.40.0, 5.12.3-arch1-1, LLVM 11.1.0)
+09:04:09 AM.161: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.0, shading language 4.60
+09:04:09 AM.194: ---------------------------------
+09:04:09 AM.194: video settings reset:
+09:04:09 AM.194: 	base resolution:   1920x1080
+09:04:09 AM.194: 	output resolution: 1280x720
+09:04:09 AM.194: 	downscale filter:  Bicubic
+09:04:09 AM.194: 	fps:               30/1
+09:04:09 AM.194: 	format:            NV12
+09:04:09 AM.194: 	YUV mode:          709/Partial
+09:04:09 AM.194: NV12 texture support not available
+09:04:09 AM.196: Audio monitoring device:
+09:04:09 AM.196: 	name: Default
+09:04:09 AM.196: 	id: default
+09:04:09 AM.196: ---------------------------------
+09:04:09 AM.197: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:04:09 AM.198: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+09:04:09 AM.251: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:04:09 AM.251: No blackmagic support
+09:04:09 AM.258: v4l2loopback not installed, virtual camera disabled
+09:04:09 AM.263: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:04:09 AM.263: 
+09:04:09 AM.263: FFMPEG VAAPI supported
+09:04:09 AM.271: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+09:04:09 AM.271: 
+09:04:09 AM.271: Couldn't find VLC installation, VLC video source disabled
+09:04:09 AM.271: ---------------------------------
+09:04:09 AM.271:   Loaded Modules:
+09:04:09 AM.271:     vlc-video.so
+09:04:09 AM.271:     text-freetype2.so
+09:04:09 AM.271:     rtmp-services.so
+09:04:09 AM.271:     obs-x264.so
+09:04:09 AM.271:     obs-transitions.so
+09:04:09 AM.271:     obs-outputs.so
+09:04:09 AM.271:     obs-libfdk.so
+09:04:09 AM.271:     obs-filters.so
+09:04:09 AM.271:     obs-ffmpeg.so
+09:04:09 AM.271:     linux-v4l2.so
+09:04:09 AM.271:     linux-pulseaudio.so
+09:04:09 AM.271:     linux-jack.so
+09:04:09 AM.271:     linux-decklink.so
+09:04:09 AM.271:     linux-capture.so
+09:04:09 AM.271:     linux-alsa.so
+09:04:09 AM.271:     image-source.so
+09:04:09 AM.271:     frontend-tools.so
+09:04:09 AM.271:     decklink-ouput-ui.so
+09:04:09 AM.271:     decklink-captions.so
+09:04:09 AM.271: ---------------------------------
+09:04:09 AM.271: ==== Startup complete ===============================================
+09:04:09 AM.275: No scene file found, creating default scene
+09:04:09 AM.275: All scene data cleared
+09:04:09 AM.275: ------------------------------------------------
+09:04:09 AM.281: pulse-input: Server name: 'pulseaudio 14.2'
+09:04:09 AM.281: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:04:09 AM.281: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor'
+09:04:09 AM.362: pulse-input: Server name: 'pulseaudio 14.2'
+09:04:09 AM.362: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:04:09 AM.363: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+09:04:09 AM.363: Switched to scene 'Scene'
+09:04:09 AM.363: Failed to glob scene collections
+09:04:09 AM.927: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+09:04:09 AM.927: 
+09:04:14 AM.173: Failed to fetch parent window geometry!
+09:04:14 AM.173: gl_platform_init_swapchain  failed
+09:04:14 AM.173: obs_display_init: Failed to create swap chain
+09:04:14 AM.173: Failed to fetch parent window geometry!
+09:04:14 AM.173: gl_platform_init_swapchain  failed
+09:04:14 AM.173: obs_display_init: Failed to create swap chain
+09:04:14 AM.178: Failed to fetch parent window geometry!
+09:04:14 AM.178: gl_platform_init_swapchain  failed
+09:04:14 AM.178: obs_display_init: Failed to create swap chain
+09:04:14 AM.190: Failed to fetch parent window geometry!
+09:04:14 AM.190: gl_platform_init_swapchain  failed
+09:04:14 AM.190: obs_display_init: Failed to create swap chain
+09:04:14 AM.190: Failed to fetch parent window geometry!
+09:04:14 AM.190: gl_platform_init_swapchain  failed
+09:04:14 AM.190: obs_display_init: Failed to create swap chain
+09:04:14 AM.195: Failed to fetch parent window geometry!
+09:04:14 AM.195: gl_platform_init_swapchain  failed
+09:04:14 AM.195: obs_display_init: Failed to create swap chain
+09:04:14 AM.195: Failed to fetch parent window geometry!
+09:04:14 AM.195: gl_platform_init_swapchain  failed
+09:04:14 AM.195: obs_display_init: Failed to create swap chain
+09:04:14 AM.994: [rtmp-services plugin] Successfully updated file 'services.json' (version 171)
+09:04:14 AM.994: [rtmp-services plugin] Successfully updated package (version 171)
+09:04:29 AM.944: 
+09:04:29 AM.944: ==== Auto-config wizard testing commencing ======
+
+09:04:29 AM.996: ---------------------------------
+09:04:29 AM.996: video settings reset:
+09:04:29 AM.996: 	base resolution:   1920x1080
+09:04:29 AM.996: 	output resolution: 1920x1080
+09:04:29 AM.996: 	downscale filter:  Bicubic
+09:04:29 AM.996: 	fps:               60/1
+09:04:29 AM.996: 	format:            NV12
+09:04:29 AM.996: 	YUV mode:          709/Partial
+09:04:29 AM.996: NV12 texture support not available
+09:04:29 AM.998: ---------------------------------
+09:04:29 AM.998: [x264 encoder: 'test_x264'] preset: veryfast
+09:04:29 AM.998: [x264 encoder: 'test_x264'] profile: high
+09:04:30 AM.001: [x264 encoder: 'test_x264'] settings:
+09:04:30 AM.001: 	rate_control: CRF
+09:04:30 AM.001: 	bitrate:      0
+09:04:30 AM.001: 	buffer size:  0
+09:04:30 AM.001: 	crf:          20
+09:04:30 AM.001: 	fps_num:      60
+09:04:30 AM.001: 	fps_den:      1
+09:04:30 AM.001: 	width:        1920
+09:04:30 AM.001: 	height:       1080
+09:04:30 AM.001: 	keyint:       250
+09:04:30 AM.001: 
+09:04:30 AM.007: ---------------------------------
+09:04:30 AM.008: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:04:30 AM.008: 
+09:04:35 AM.009: Output 'null': stopping
+09:04:35 AM.009: Output 'null': Total frames output: 263
+09:04:35 AM.009: Output 'null': Total drawn frames: 300
+09:04:35 AM.139: Video stopped, number of skipped frames due to encoding lag: 109/298 (36.6%)
+09:04:35 AM.266: ---------------------------------
+09:04:35 AM.266: video settings reset:
+09:04:35 AM.266: 	base resolution:   1920x1080
+09:04:35 AM.266: 	output resolution: 1920x1080
+09:04:35 AM.266: 	downscale filter:  Bicubic
+09:04:35 AM.266: 	fps:               30/1
+09:04:35 AM.266: 	format:            NV12
+09:04:35 AM.266: 	YUV mode:          709/Partial
+09:04:35 AM.266: NV12 texture support not available
+09:04:35 AM.267: ---------------------------------
+09:04:35 AM.267: [x264 encoder: 'test_x264'] preset: veryfast
+09:04:35 AM.267: [x264 encoder: 'test_x264'] profile: high
+09:04:35 AM.267: [x264 encoder: 'test_x264'] settings:
+09:04:35 AM.267: 	rate_control: CRF
+09:04:35 AM.267: 	bitrate:      0
+09:04:35 AM.267: 	buffer size:  0
+09:04:35 AM.267: 	crf:          20
+09:04:35 AM.267: 	fps_num:      30
+09:04:35 AM.267: 	fps_den:      1
+09:04:35 AM.267: 	width:        1920
+09:04:35 AM.267: 	height:       1080
+09:04:35 AM.267: 	keyint:       250
+09:04:35 AM.267: 
+09:04:35 AM.269: ---------------------------------
+09:04:35 AM.269: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:04:35 AM.269: 
+09:04:40 AM.270: Output 'null': stopping
+09:04:40 AM.270: Output 'null': Total frames output: 122
+09:04:40 AM.270: Output 'null': Total drawn frames: 150
+09:04:40 AM.401: ---------------------------------
+09:04:40 AM.401: video settings reset:
+09:04:40 AM.401: 	base resolution:   1920x1080
+09:04:40 AM.401: 	output resolution: 1280x720
+09:04:40 AM.401: 	downscale filter:  Bicubic
+09:04:40 AM.401: 	fps:               60/1
+09:04:40 AM.401: 	format:            NV12
+09:04:40 AM.401: 	YUV mode:          709/Partial
+09:04:40 AM.401: NV12 texture support not available
+09:04:40 AM.402: ---------------------------------
+09:04:40 AM.402: [x264 encoder: 'test_x264'] preset: veryfast
+09:04:40 AM.402: [x264 encoder: 'test_x264'] profile: high
+09:04:40 AM.402: [x264 encoder: 'test_x264'] settings:
+09:04:40 AM.402: 	rate_control: CRF
+09:04:40 AM.402: 	bitrate:      0
+09:04:40 AM.402: 	buffer size:  0
+09:04:40 AM.402: 	crf:          20
+09:04:40 AM.402: 	fps_num:      60
+09:04:40 AM.402: 	fps_den:      1
+09:04:40 AM.402: 	width:        1280
+09:04:40 AM.402: 	height:       720
+09:04:40 AM.402: 	keyint:       250
+09:04:40 AM.402: 
+09:04:40 AM.405: ---------------------------------
+09:04:40 AM.405: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:04:40 AM.405: 
+09:04:45 AM.405: Output 'null': stopping
+09:04:45 AM.405: Output 'null': Total frames output: 272
+09:04:45 AM.405: Output 'null': Total drawn frames: 300
+09:04:45 AM.502: ---------------------------------
+09:04:45 AM.502: video settings reset:
+09:04:45 AM.502: 	base resolution:   1920x1080
+09:04:45 AM.502: 	output resolution: 1280x720
+09:04:45 AM.502: 	downscale filter:  Bicubic
+09:04:45 AM.502: 	fps:               30/1
+09:04:45 AM.502: 	format:            NV12
+09:04:45 AM.502: 	YUV mode:          709/Partial
+09:04:45 AM.503: NV12 texture support not available
+09:04:45 AM.503: ---------------------------------
+09:04:45 AM.504: [x264 encoder: 'test_x264'] preset: veryfast
+09:04:45 AM.504: [x264 encoder: 'test_x264'] profile: high
+09:04:45 AM.504: [x264 encoder: 'test_x264'] settings:
+09:04:45 AM.504: 	rate_control: CRF
+09:04:45 AM.504: 	bitrate:      0
+09:04:45 AM.504: 	buffer size:  0
+09:04:45 AM.504: 	crf:          20
+09:04:45 AM.504: 	fps_num:      30
+09:04:45 AM.504: 	fps_den:      1
+09:04:45 AM.504: 	width:        1280
+09:04:45 AM.504: 	height:       720
+09:04:45 AM.504: 	keyint:       250
+09:04:45 AM.504: 
+09:04:45 AM.506: ---------------------------------
+09:04:45 AM.506: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:04:45 AM.506: 
+09:04:50 AM.506: Output 'null': stopping
+09:04:50 AM.507: Output 'null': Total frames output: 122
+09:04:50 AM.507: Output 'null': Total drawn frames: 150
+09:04:50 AM.570: ---------------------------------
+09:04:50 AM.570: video settings reset:
+09:04:50 AM.570: 	base resolution:   1920x1080
+09:04:50 AM.570: 	output resolution: 1280x720
+09:04:50 AM.570: 	downscale filter:  Bicubic
+09:04:50 AM.570: 	fps:               30/1
+09:04:50 AM.570: 	format:            NV12
+09:04:50 AM.570: 	YUV mode:          709/Partial
+09:04:50 AM.571: NV12 texture support not available
+09:04:54 AM.339: ---------------------------------
+09:04:54 AM.339: video settings reset:
+09:04:54 AM.339: 	base resolution:   1920x1080
+09:04:54 AM.339: 	output resolution: 1280x720
+09:04:54 AM.339: 	downscale filter:  Bicubic
+09:04:54 AM.339: 	fps:               60/1
+09:04:54 AM.339: 	format:            NV12
+09:04:54 AM.339: 	YUV mode:          709/Partial
+09:04:54 AM.339: NV12 texture support not available
+09:04:54 AM.348: 
+09:04:54 AM.348: ==== Auto-config wizard testing stopping ========
+
+09:04:54 AM.349: Failed to fetch parent window geometry!
+09:04:54 AM.349: gl_platform_init_swapchain  failed
+09:04:54 AM.349: obs_display_init: Failed to create swap chain
+09:04:56 AM.320: Failed to fetch parent window geometry!
+09:04:56 AM.326: gl_platform_init_swapchain  failed
+09:04:56 AM.326: obs_display_init: Failed to create swap chain
+09:05:00 AM.702: Failed to fetch parent window geometry!
+09:05:00 AM.702: gl_platform_init_swapchain  failed
+09:05:00 AM.702: obs_display_init: Failed to create swap chain
+09:05:00 AM.709: Failed to fetch parent window geometry!
+09:05:00 AM.709: gl_platform_init_swapchain  failed
+09:05:00 AM.709: obs_display_init: Failed to create swap chain
+09:05:00 AM.709: Failed to fetch parent window geometry!
+09:05:00 AM.709: gl_platform_init_swapchain  failed
+09:05:00 AM.709: obs_display_init: Failed to create swap chain
+09:05:00 AM.711: Failed to fetch parent window geometry!
+09:05:00 AM.711: gl_platform_init_swapchain  failed
+09:05:00 AM.711: obs_display_init: Failed to create swap chain
+09:05:00 AM.721: Failed to fetch parent window geometry!
+09:05:00 AM.721: gl_platform_init_swapchain  failed
+09:05:00 AM.721: obs_display_init: Failed to create swap chain
+09:05:02 AM.109: Failed to fetch parent window geometry!
+09:05:02 AM.109: gl_platform_init_swapchain  failed
+09:05:02 AM.109: obs_display_init: Failed to create swap chain
+09:05:02 AM.122: Failed to fetch parent window geometry!
+09:05:02 AM.122: gl_platform_init_swapchain  failed
+09:05:02 AM.122: obs_display_init: Failed to create swap chain
+09:05:02 AM.122: Failed to fetch parent window geometry!
+09:05:02 AM.122: gl_platform_init_swapchain  failed
+09:05:02 AM.122: obs_display_init: Failed to create swap chain
+09:05:02 AM.127: Failed to fetch parent window geometry!
+09:05:02 AM.127: gl_platform_init_swapchain  failed
+09:05:02 AM.127: obs_display_init: Failed to create swap chain
+09:05:02 AM.134: Failed to fetch parent window geometry!
+09:05:02 AM.134: gl_platform_init_swapchain  failed
+09:05:02 AM.134: obs_display_init: Failed to create swap chain
+09:05:07 AM.264: Failed to fetch parent window geometry!
+09:05:07 AM.271: gl_platform_init_swapchain  failed
+09:05:07 AM.271: obs_display_init: Failed to create swap chain
+09:05:07 AM.919: Failed to fetch parent window geometry!
+09:05:07 AM.919: gl_platform_init_swapchain  failed
+09:05:07 AM.919: obs_display_init: Failed to create swap chain
+09:05:08 AM.272: Failed to fetch parent window geometry!
+09:05:08 AM.272: gl_platform_init_swapchain  failed
+09:05:08 AM.272: obs_display_init: Failed to create swap chain
+09:05:09 AM.447: Failed to fetch parent window geometry!
+09:05:09 AM.447: gl_platform_init_swapchain  failed
+09:05:09 AM.447: obs_display_init: Failed to create swap chain
+09:05:10 AM.778: Failed to fetch parent window geometry!
+09:05:10 AM.778: gl_platform_init_swapchain  failed
+09:05:10 AM.778: obs_display_init: Failed to create swap chain
+09:05:13 AM.835: Failed to fetch parent window geometry!
+09:05:13 AM.835: gl_platform_init_swapchain  failed
+09:05:13 AM.835: obs_display_init: Failed to create swap chain
+09:05:13 AM.843: Failed to fetch parent window geometry!
+09:05:13 AM.843: gl_platform_init_swapchain  failed
+09:05:13 AM.843: obs_display_init: Failed to create swap chain
+09:05:13 AM.852: Failed to fetch parent window geometry!
+09:05:13 AM.852: gl_platform_init_swapchain  failed
+09:05:13 AM.852: obs_display_init: Failed to create swap chain
+09:05:14 AM.960: xshm-input: Geometry 1920x1080 @ 0,0
+09:05:14 AM.963: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+09:05:14 AM.977: Failed to fetch parent window geometry!
+09:05:14 AM.977: gl_platform_init_swapchain  failed
+09:05:14 AM.978: obs_display_init: Failed to create swap chain
+09:05:14 AM.993: Failed to fetch parent window geometry!
+09:05:14 AM.993: gl_platform_init_swapchain  failed
+09:05:14 AM.993: obs_display_init: Failed to create swap chain
+09:05:14 AM.994: Failed to fetch parent window geometry!
+09:05:14 AM.994: gl_platform_init_swapchain  failed
+09:05:14 AM.994: obs_display_init: Failed to create swap chain
+09:05:14 AM.996: Failed to fetch parent window geometry!
+09:05:14 AM.996: gl_platform_init_swapchain  failed
+09:05:14 AM.996: obs_display_init: Failed to create swap chain
+09:05:14 AM.998: Failed to fetch parent window geometry!
+09:05:14 AM.998: gl_platform_init_swapchain  failed
+09:05:14 AM.998: obs_display_init: Failed to create swap chain
+09:05:15 AM.943: Failed to fetch parent window geometry!
+09:05:15 AM.943: gl_platform_init_swapchain  failed
+09:05:15 AM.943: obs_display_init: Failed to create swap chain
+09:05:15 AM.946: Failed to fetch parent window geometry!
+09:05:15 AM.946: gl_platform_init_swapchain  failed
+09:05:15 AM.946: obs_display_init: Failed to create swap chain
+09:05:15 AM.952: Failed to fetch parent window geometry!
+09:05:15 AM.952: gl_platform_init_swapchain  failed
+09:05:15 AM.952: obs_display_init: Failed to create swap chain
+09:05:16 AM.144: Failed to fetch parent window geometry!
+09:05:16 AM.144: gl_platform_init_swapchain  failed
+09:05:16 AM.144: obs_display_init: Failed to create swap chain
+09:05:16 AM.144: Failed to fetch parent window geometry!
+09:05:16 AM.144: gl_platform_init_swapchain  failed
+09:05:16 AM.144: obs_display_init: Failed to create swap chain
+09:05:16 AM.149: Failed to fetch parent window geometry!
+09:05:16 AM.149: gl_platform_init_swapchain  failed
+09:05:16 AM.149: obs_display_init: Failed to create swap chain
+09:05:17 AM.008: Failed to fetch parent window geometry!
+09:05:17 AM.008: gl_platform_init_swapchain  failed
+09:05:17 AM.008: obs_display_init: Failed to create swap chain
+09:05:17 AM.013: Failed to fetch parent window geometry!
+09:05:17 AM.013: gl_platform_init_swapchain  failed
+09:05:17 AM.013: obs_display_init: Failed to create swap chain
+09:05:25 AM.072: Failed to fetch parent window geometry!
+09:05:25 AM.072: gl_platform_init_swapchain  failed
+09:05:25 AM.072: obs_display_init: Failed to create swap chain
+09:05:25 AM.137: ---------------------------------
+09:05:25 AM.137: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:05:25 AM.137: [x264 encoder: 'simple_h264_recording'] profile: high
+09:05:25 AM.138: [x264 encoder: 'simple_h264_recording'] settings:
+09:05:25 AM.138: 	rate_control: CRF
+09:05:25 AM.138: 	bitrate:      0
+09:05:25 AM.138: 	buffer size:  0
+09:05:25 AM.138: 	crf:          21
+09:05:25 AM.138: 	fps_num:      60
+09:05:25 AM.138: 	fps_den:      1
+09:05:25 AM.138: 	width:        1280
+09:05:25 AM.138: 	height:       720
+09:05:25 AM.138: 	keyint:       250
+09:05:25 AM.138: 
+09:05:25 AM.152: libfdk_aac encoder created
+09:05:25 AM.152: libfdk_aac bitrate: 192, channels: 2
+09:05:25 AM.154: ==== Recording Start ===============================================
+09:05:25 AM.154: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/darshan/2021-05-20 09-05-25.mkv'...
+09:05:27 AM.047: Failed to fetch parent window geometry!
+09:05:27 AM.047: gl_platform_init_swapchain  failed
+09:05:27 AM.047: obs_display_init: Failed to create swap chain
+09:05:29 AM.551: Failed to fetch parent window geometry!
+09:05:29 AM.551: gl_platform_init_swapchain  failed
+09:05:29 AM.551: obs_display_init: Failed to create swap chain
+09:05:31 AM.416: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/darshan/2021-05-20 09-05-25.mkv' stopped
+09:05:31 AM.416: Output 'simple_file_output': stopping
+09:05:31 AM.416: Output 'simple_file_output': Total frames output: 349
+09:05:31 AM.416: Output 'simple_file_output': Total drawn frames: 376
+09:05:31 AM.417: ==== Recording Stop ================================================
+09:05:31 AM.420: libfdk_aac encoder destroyed
+09:05:32 AM.520: Failed to fetch parent window geometry!
+09:05:32 AM.520: gl_platform_init_swapchain  failed
+09:05:32 AM.520: obs_display_init: Failed to create swap chain
+09:05:33 AM.718: Failed to fetch parent window geometry!
+09:05:33 AM.718: gl_platform_init_swapchain  failed
+09:05:33 AM.718: obs_display_init: Failed to create swap chain
+09:05:33 AM.727: Failed to fetch parent window geometry!
+09:05:33 AM.727: gl_platform_init_swapchain  failed
+09:05:33 AM.727: obs_display_init: Failed to create swap chain
+09:05:33 AM.727: Failed to fetch parent window geometry!
+09:05:33 AM.727: gl_platform_init_swapchain  failed
+09:05:33 AM.727: obs_display_init: Failed to create swap chain
+09:05:33 AM.729: Failed to fetch parent window geometry!
+09:05:33 AM.729: gl_platform_init_swapchain  failed
+09:05:33 AM.729: obs_display_init: Failed to create swap chain
+09:05:33 AM.736: Failed to fetch parent window geometry!
+09:05:33 AM.736: gl_platform_init_swapchain  failed
+09:05:33 AM.736: obs_display_init: Failed to create swap chain
+09:05:56 AM.754: Failed to fetch parent window geometry!
+09:05:56 AM.754: gl_platform_init_swapchain  failed
+09:05:56 AM.754: obs_display_init: Failed to create swap chain
+09:05:56 AM.763: Failed to fetch parent window geometry!
+09:05:56 AM.763: gl_platform_init_swapchain  failed
+09:05:56 AM.763: obs_display_init: Failed to create swap chain
+09:05:56 AM.763: Failed to fetch parent window geometry!
+09:05:56 AM.763: gl_platform_init_swapchain  failed
+09:05:56 AM.763: obs_display_init: Failed to create swap chain
+09:05:56 AM.765: Failed to fetch parent window geometry!
+09:05:56 AM.765: gl_platform_init_swapchain  failed
+09:05:56 AM.765: obs_display_init: Failed to create swap chain
+09:06:02 AM.625: Failed to fetch parent window geometry!
+09:06:02 AM.625: gl_platform_init_swapchain  failed
+09:06:02 AM.625: obs_display_init: Failed to create swap chain
+09:06:02 AM.638: Failed to fetch parent window geometry!
+09:06:02 AM.638: gl_platform_init_swapchain  failed
+09:06:02 AM.638: obs_display_init: Failed to create swap chain
+09:06:02 AM.638: Failed to fetch parent window geometry!
+09:06:02 AM.638: gl_platform_init_swapchain  failed
+09:06:02 AM.638: obs_display_init: Failed to create swap chain
+09:06:02 AM.643: Failed to fetch parent window geometry!
+09:06:02 AM.643: gl_platform_init_swapchain  failed
+09:06:02 AM.643: obs_display_init: Failed to create swap chain
+09:06:03 AM.903: Failed to fetch parent window geometry!
+09:06:03 AM.903: gl_platform_init_swapchain  failed
+09:06:03 AM.903: obs_display_init: Failed to create swap chain
+09:06:03 AM.905: Failed to fetch parent window geometry!
+09:06:03 AM.906: gl_platform_init_swapchain  failed
+09:06:03 AM.906: obs_display_init: Failed to create swap chain
+09:06:04 AM.015: Failed to fetch parent window geometry!
+09:06:04 AM.015: gl_platform_init_swapchain  failed
+09:06:04 AM.015: obs_display_init: Failed to create swap chain
+09:06:04 AM.018: Failed to fetch parent window geometry!
+09:06:04 AM.018: gl_platform_init_swapchain  failed
+09:06:04 AM.018: obs_display_init: Failed to create swap chain
+09:06:10 AM.528: Failed to fetch parent window geometry!
+09:06:10 AM.528: gl_platform_init_swapchain  failed
+09:06:10 AM.528: obs_display_init: Failed to create swap chain
+09:06:10 AM.536: Failed to fetch parent window geometry!
+09:06:10 AM.536: gl_platform_init_swapchain  failed
+09:06:10 AM.536: obs_display_init: Failed to create swap chain
+09:06:10 AM.536: Failed to fetch parent window geometry!
+09:06:10 AM.536: gl_platform_init_swapchain  failed
+09:06:10 AM.536: obs_display_init: Failed to create swap chain
+09:06:10 AM.538: Failed to fetch parent window geometry!
+09:06:10 AM.539: gl_platform_init_swapchain  failed
+09:06:10 AM.539: obs_display_init: Failed to create swap chain
+09:06:13 AM.831: Failed to fetch parent window geometry!
+09:06:13 AM.831: gl_platform_init_swapchain  failed
+09:06:13 AM.831: obs_display_init: Failed to create swap chain
+09:06:13 AM.838: Failed to fetch parent window geometry!
+09:06:13 AM.838: gl_platform_init_swapchain  failed
+09:06:13 AM.838: obs_display_init: Failed to create swap chain
+09:06:13 AM.838: Failed to fetch parent window geometry!
+09:06:13 AM.838: gl_platform_init_swapchain  failed
+09:06:13 AM.838: obs_display_init: Failed to create swap chain
+09:06:13 AM.842: Failed to fetch parent window geometry!
+09:06:13 AM.842: gl_platform_init_swapchain  failed
+09:06:13 AM.842: obs_display_init: Failed to create swap chain
+09:06:45 AM.090: Failed to fetch parent window geometry!
+09:06:45 AM.091: gl_platform_init_swapchain  failed
+09:06:45 AM.091: obs_display_init: Failed to create swap chain
+09:06:45 AM.109: Failed to fetch parent window geometry!
+09:06:45 AM.109: gl_platform_init_swapchain  failed
+09:06:45 AM.109: obs_display_init: Failed to create swap chain
+09:06:45 AM.110: Failed to fetch parent window geometry!
+09:06:45 AM.110: gl_platform_init_swapchain  failed
+09:06:45 AM.110: obs_display_init: Failed to create swap chain
+09:06:45 AM.117: Failed to fetch parent window geometry!
+09:06:45 AM.117: gl_platform_init_swapchain  failed
+09:06:45 AM.117: obs_display_init: Failed to create swap chain
+09:06:45 AM.127: Failed to fetch parent window geometry!
+09:06:45 AM.127: gl_platform_init_swapchain  failed
+09:06:45 AM.127: obs_display_init: Failed to create swap chain
+09:06:47 AM.741: ==== Shutting down ==================================================
+09:06:47 AM.746: pulse-input: Stopped recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor'
+09:06:47 AM.746: pulse-input: Got 31099 packets with 6896609 frames
+09:06:47 AM.746: pulse-input: Stopped recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+09:06:47 AM.746: pulse-input: Got 15756 packets with 6984330 frames
+09:06:47 AM.746: All scene data cleared
+09:06:47 AM.746: ------------------------------------------------
+09:06:47 AM.785: [Scripting] Total detached callbacks: 0
+09:06:47 AM.786: Freeing OBS context data
+09:06:47 AM.800: == Profiler Results =============================
+09:06:47 AM.800: run_program_init: 400.295 ms
+09:06:47 AM.800:  ┣OBSApp::AppInit: 2.483 ms
+09:06:47 AM.800:  ┃ ┗OBSApp::InitLocale: 0.53 ms
+09:06:47 AM.800:  ┗OBSApp::OBSInit: 377.771 ms
+09:06:47 AM.800:    ┣obs_startup: 17.319 ms
+09:06:47 AM.800:    ┗OBSBasic::OBSInit: 323.029 ms
+09:06:47 AM.800:      ┣OBSBasic::InitBasicConfig: 0.987 ms
+09:06:47 AM.800:      ┣OBSBasic::ResetAudio: 0.106 ms
+09:06:47 AM.800:      ┣OBSBasic::ResetVideo: 117.459 ms
+09:06:47 AM.800:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+09:06:47 AM.800:      ┣OBSBasic::InitHotkeys: 0.052 ms
+09:06:47 AM.800:      ┣obs_load_all_modules: 75.2 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(decklink-captions.so): 0.02 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.384 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(frontend-tools.so): 47.227 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(image-source.so): 0.005 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-capture.so): 0.328 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-decklink.so): 0.111 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(linux-v4l2.so): 4.477 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.2 ms
+09:06:47 AM.800:      ┃ ┃ ┗nvenc_check: 0.182 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(obs-filters.so): 0.012 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+09:06:47 AM.800:      ┃ ┣obs_init_module(obs-transitions.so): 0.006 ms
+09:06:47 AM.801:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+09:06:47 AM.801:      ┃ ┣obs_init_module(rtmp-services.so): 0.101 ms
+09:06:47 AM.801:      ┃ ┣obs_init_module(text-freetype2.so): 0.022 ms
+09:06:47 AM.801:      ┃ ┗obs_init_module(vlc-video.so): 0.751 ms
+09:06:47 AM.801:      ┣OBSBasic::ResetOutputs: 0.123 ms
+09:06:47 AM.801:      ┣OBSBasic::CreateHotkeys: 0.043 ms
+09:06:47 AM.801:      ┣OBSBasic::InitService: 1.663 ms
+09:06:47 AM.801:      ┣OBSBasic::InitPrimitives: 0.127 ms
+09:06:47 AM.801:      ┗OBSBasic::Load: 88.033 ms
+09:06:47 AM.801: obs_hotkey_thread(25 ms): min=0.085 ms, median=0.376 ms, max=2.286 ms, 99th percentile=1.692 ms, 100% below 25 ms
+09:06:47 AM.801: audio_thread(Audio): min=0.002 ms, median=0.068 ms, max=2.528 ms, 99th percentile=0.868 ms
+09:06:47 AM.801:  ┗receive_audio: min=0.006 ms, median=0.176 ms, max=2.445 ms, 99th percentile=0.861 ms, 0.167291 calls per parent call
+09:06:47 AM.801:    ┣buffer_audio: min=0.001 ms, median=0.002 ms, max=0.034 ms, 99th percentile=0.006 ms
+09:06:47 AM.801:    ┗do_encode: min=0.021 ms, median=0.167 ms, max=2.434 ms, 99th percentile=0.849 ms
+09:06:47 AM.801:      ┣encode(test_aac): min=0.018 ms, median=0.134 ms, max=1.596 ms, 99th percentile=0.236 ms, 0.76399 calls per parent call
+09:06:47 AM.801:      ┗encode(simple_aac_recording): min=0.246 ms, median=0.675 ms, max=0.964 ms, 99th percentile=0.866 ms, 0.23601 calls per parent call
+09:06:47 AM.801: obs_graphics_thread(33.3333 ms): min=0.152 ms, median=0.357 ms, max=22.336 ms, 99th percentile=0.727 ms, 100% below 33.333 ms
+09:06:47 AM.801:  ┣tick_sources: min=0.002 ms, median=0.012 ms, max=0.066 ms, 99th percentile=0.013 ms
+09:06:47 AM.801:  ┣output_frame: min=0.104 ms, median=0.277 ms, max=22.206 ms, 99th percentile=0.652 ms
+09:06:47 AM.801:  ┃ ┗gs_context(video->graphics): min=0.102 ms, median=0.274 ms, max=22.203 ms, 99th percentile=0.65 ms
+09:06:47 AM.801:  ┃   ┣render_video: min=0.025 ms, median=0.041 ms, max=2.861 ms, 99th percentile=0.048 ms
+09:06:47 AM.801:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=0.033 ms, max=2.847 ms, 99th percentile=0.039 ms
+09:06:47 AM.801:  ┃   ┗gs_flush: min=0.066 ms, median=0.2 ms, max=19.316 ms, 99th percentile=0.595 ms
+09:06:47 AM.801:  ┗render_displays: min=0.001 ms, median=0.017 ms, max=0.039 ms, 99th percentile=0.019 ms
+09:06:47 AM.801: obs_graphics_thread(16.6667 ms): min=0.198 ms, median=9.31 ms, max=18.877 ms, 99th percentile=12.789 ms, 99.3671% below 16.667 ms
+09:06:47 AM.801:  ┣tick_sources: min=0.006 ms, median=0.009 ms, max=0.102 ms, 99th percentile=0.017 ms
+09:06:47 AM.801:  ┣output_frame: min=0.15 ms, median=9.231 ms, max=18.821 ms, 99th percentile=12.729 ms
+09:06:47 AM.801:  ┃ ┣gs_context(video->graphics): min=0.148 ms, median=8.707 ms, max=18.306 ms, 99th percentile=12.657 ms
+09:06:47 AM.801:  ┃ ┃ ┣render_video: min=0.052 ms, median=8.667 ms, max=18.264 ms, 99th percentile=12.616 ms
+09:06:47 AM.801:  ┃ ┃ ┃ ┣render_main_texture: min=0.047 ms, median=0.067 ms, max=0.424 ms, 99th percentile=0.131 ms
+09:06:47 AM.801:  ┃ ┃ ┃ ┣render_convert_texture: min=0.021 ms, median=0.025 ms, max=3.676 ms, 99th percentile=0.06 ms, 0.949367 calls per parent call
+09:06:47 AM.801:  ┃ ┃ ┃ ┗stage_output_texture: min=2.632 ms, median=8.553 ms, max=18.163 ms, 99th percentile=12.478 ms, 0.949367 calls per parent call
+09:06:47 AM.801:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.004 ms, max=0.188 ms, 99th percentile=0.167 ms
+09:06:47 AM.801:  ┃ ┃ ┗download_frame: min=0.002 ms, median=0.018 ms, max=0.041 ms, 99th percentile=0.033 ms, 0.949367 calls per parent call
+09:06:47 AM.801:  ┃ ┗output_video_data: min=0.001 ms, median=0.538 ms, max=1.436 ms, 99th percentile=1.208 ms, 0.946203 calls per parent call
+09:06:47 AM.801:  ┗render_displays: min=0.003 ms, median=0.02 ms, max=0.061 ms, 99th percentile=0.051 ms
+09:06:47 AM.801: video_thread(video): min=0.165 ms, median=20.072 ms, max=127.801 ms, 99th percentile=113.266 ms
+09:06:47 AM.801:  ┗receive_video: min=1.104 ms, median=13.719 ms, max=61.849 ms, 99th percentile=59.719 ms, 1.56842 calls per parent call
+09:06:47 AM.801:    ┗do_encode: min=1.101 ms, median=13.714 ms, max=61.846 ms, 99th percentile=59.716 ms
+09:06:47 AM.801:      ┗encode(test_x264): min=1.087 ms, median=13.521 ms, max=61.744 ms, 99th percentile=59.612 ms
+09:06:47 AM.801: obs_graphics_thread(33.3333 ms): min=0.183 ms, median=9.315 ms, max=11.042 ms, 99th percentile=10.334 ms, 100% below 33.333 ms
+09:06:47 AM.801:  ┣tick_sources: min=0.006 ms, median=0.009 ms, max=0.012 ms, 99th percentile=0.012 ms
+09:06:47 AM.801:  ┣output_frame: min=0.136 ms, median=9.243 ms, max=10.968 ms, 99th percentile=10.264 ms
+09:06:47 AM.801:  ┃ ┣gs_context(video->graphics): min=0.134 ms, median=8.733 ms, max=10.386 ms, 99th percentile=9.738 ms
+09:06:47 AM.801:  ┃ ┃ ┣render_video: min=0.057 ms, median=8.683 ms, max=10.341 ms, 99th percentile=9.698 ms
+09:06:47 AM.801:  ┃ ┃ ┃ ┣render_main_texture: min=0.052 ms, median=0.073 ms, max=0.116 ms, 99th percentile=0.116 ms
+09:06:47 AM.801:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.034 ms, max=0.087 ms, 99th percentile=0.074 ms
+09:06:47 AM.801:  ┃ ┃ ┃ ┗stage_output_texture: min=3.101 ms, median=8.567 ms, max=10.235 ms, 99th percentile=9.596 ms
+09:06:47 AM.801:  ┃ ┃ ┣gs_flush: min=0.003 ms, median=0.004 ms, max=0.278 ms, 99th percentile=0.186 ms
+09:06:47 AM.801:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.021 ms, max=0.038 ms, 99th percentile=0.036 ms
+09:06:47 AM.801:  ┃ ┗output_video_data: min=0.411 ms, median=0.502 ms, max=1.538 ms, 99th percentile=1.432 ms
+09:06:47 AM.801:  ┗render_displays: min=0.003 ms, median=0.021 ms, max=0.05 ms, 99th percentile=0.046 ms
+09:06:47 AM.801: video_thread(video): min=0.002 ms, median=2.073 ms, max=4.071 ms, 99th percentile=3.427 ms
+09:06:47 AM.801:  ┗receive_video: min=1.481 ms, median=2.069 ms, max=4.067 ms, 99th percentile=3.422 ms
+09:06:47 AM.801:    ┗do_encode: min=1.477 ms, median=2.064 ms, max=4.061 ms, 99th percentile=3.418 ms
+09:06:47 AM.801:      ┗encode(test_x264): min=1.389 ms, median=1.971 ms, max=3.444 ms, 99th percentile=3.305 ms
+09:06:47 AM.801: obs_graphics_thread(16.6667 ms): min=0.296 ms, median=7.551 ms, max=27.524 ms, 99th percentile=8.235 ms, 99.6732% below 16.667 ms
+09:06:47 AM.801:  ┣tick_sources: min=0.006 ms, median=0.008 ms, max=0.015 ms, 99th percentile=0.013 ms
+09:06:47 AM.801:  ┣output_frame: min=0.245 ms, median=7.489 ms, max=27.445 ms, 99th percentile=8.162 ms
+09:06:47 AM.801:  ┃ ┣gs_context(video->graphics): min=0.242 ms, median=7.311 ms, max=27.442 ms, 99th percentile=7.968 ms
+09:06:47 AM.801:  ┃ ┃ ┣render_video: min=0.062 ms, median=7.268 ms, max=27.403 ms, 99th percentile=7.925 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_main_texture: min=0.055 ms, median=0.064 ms, max=0.149 ms, 99th percentile=0.094 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_output_texture: min=0.015 ms, median=0.02 ms, max=4.53 ms, 99th percentile=0.037 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_convert_texture: min=0.014 ms, median=0.017 ms, max=0.112 ms, 99th percentile=0.032 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┗stage_output_texture: min=2.838 ms, median=7.156 ms, max=22.752 ms, 99th percentile=7.839 ms
+09:06:47 AM.802:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.004 ms, max=0.378 ms, 99th percentile=0.188 ms
+09:06:47 AM.802:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.018 ms, max=0.031 ms, 99th percentile=0.027 ms
+09:06:47 AM.802:  ┃ ┗output_video_data: min=0.14 ms, median=0.172 ms, max=0.63 ms, 99th percentile=0.404 ms
+09:06:47 AM.802:  ┗render_displays: min=0.006 ms, median=0.014 ms, max=0.044 ms, 99th percentile=0.025 ms
+09:06:47 AM.802: video_thread(video): min=0.001 ms, median=0.843 ms, max=2.055 ms, 99th percentile=2.032 ms
+09:06:47 AM.802:  ┗receive_video: min=0.523 ms, median=0.839 ms, max=2.051 ms, 99th percentile=2.026 ms
+09:06:47 AM.802:    ┗do_encode: min=0.52 ms, median=0.835 ms, max=2.046 ms, 99th percentile=2.021 ms
+09:06:47 AM.802:      ┗encode(test_x264): min=0.483 ms, median=0.777 ms, max=2.042 ms, 99th percentile=2.016 ms
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=0.294 ms, median=4.429 ms, max=9.003 ms, 99th percentile=8.61 ms, 100% below 33.333 ms
+09:06:47 AM.802:  ┣tick_sources: min=0.006 ms, median=0.011 ms, max=0.052 ms, 99th percentile=0.015 ms
+09:06:47 AM.802:  ┣output_frame: min=0.21 ms, median=4.348 ms, max=8.94 ms, 99th percentile=8.531 ms
+09:06:47 AM.802:  ┃ ┣gs_context(video->graphics): min=0.207 ms, median=4.158 ms, max=8.774 ms, 99th percentile=8.342 ms
+09:06:47 AM.802:  ┃ ┃ ┣render_video: min=0.044 ms, median=4.109 ms, max=8.729 ms, 99th percentile=8.288 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_main_texture: min=0.035 ms, median=0.088 ms, max=0.137 ms, 99th percentile=0.113 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_output_texture: min=0.016 ms, median=0.03 ms, max=0.173 ms, 99th percentile=0.073 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_convert_texture: min=0.014 ms, median=0.028 ms, max=0.228 ms, 99th percentile=0.057 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┗stage_output_texture: min=2.459 ms, median=3.967 ms, max=8.595 ms, 99th percentile=8.087 ms
+09:06:47 AM.802:  ┃ ┃ ┣gs_flush: min=0.003 ms, median=0.005 ms, max=0.154 ms, 99th percentile=0.107 ms
+09:06:47 AM.802:  ┃ ┃ ┗download_frame: min=0.002 ms, median=0.021 ms, max=0.044 ms, 99th percentile=0.034 ms
+09:06:47 AM.802:  ┃ ┗output_video_data: min=0.137 ms, median=0.185 ms, max=0.29 ms, 99th percentile=0.289 ms
+09:06:47 AM.802:  ┗render_displays: min=0.005 ms, median=0.016 ms, max=0.043 ms, 99th percentile=0.035 ms
+09:06:47 AM.802: video_thread(video): min=0.001 ms, median=0.983 ms, max=2.196 ms, 99th percentile=2.117 ms
+09:06:47 AM.802:  ┗receive_video: min=0.54 ms, median=0.98 ms, max=2.192 ms, 99th percentile=2.112 ms
+09:06:47 AM.802:    ┗do_encode: min=0.537 ms, median=0.975 ms, max=2.189 ms, 99th percentile=2.107 ms
+09:06:47 AM.802:      ┗encode(test_x264): min=0.49 ms, median=0.923 ms, max=2.186 ms, 99th percentile=2.102 ms
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=0.15 ms, median=0.364 ms, max=0.898 ms, 99th percentile=0.81 ms, 100% below 33.333 ms
+09:06:47 AM.802:  ┣tick_sources: min=0.006 ms, median=0.012 ms, max=0.013 ms, 99th percentile=0.013 ms
+09:06:47 AM.802:  ┣output_frame: min=0.108 ms, median=0.282 ms, max=0.728 ms, 99th percentile=0.694 ms
+09:06:47 AM.802:  ┃ ┗gs_context(video->graphics): min=0.106 ms, median=0.279 ms, max=0.725 ms, 99th percentile=0.691 ms
+09:06:47 AM.802:  ┃   ┣render_video: min=0.025 ms, median=0.042 ms, max=0.18 ms, 99th percentile=0.046 ms
+09:06:47 AM.802:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=0.033 ms, max=0.17 ms, 99th percentile=0.038 ms
+09:06:47 AM.802:  ┃   ┗gs_flush: min=0.073 ms, median=0.205 ms, max=0.651 ms, 99th percentile=0.626 ms
+09:06:47 AM.802:  ┗render_displays: min=0.002 ms, median=0.016 ms, max=0.024 ms, 99th percentile=0.018 ms
+09:06:47 AM.802: obs_graphics_thread(16.6667 ms): min=0.137 ms, median=2.67 ms, max=18.768 ms, 99th percentile=5.438 ms, 99.9853% below 16.667 ms
+09:06:47 AM.802:  ┣tick_sources: min=0.004 ms, median=2.277 ms, max=9.07 ms, 99th percentile=2.834 ms
+09:06:47 AM.802:  ┣output_frame: min=0.093 ms, median=0.314 ms, max=9.634 ms, 99th percentile=2.964 ms
+09:06:47 AM.802:  ┃ ┣gs_context(video->graphics): min=0.09 ms, median=0.311 ms, max=9.632 ms, 99th percentile=2.773 ms
+09:06:47 AM.802:  ┃ ┃ ┣render_video: min=0.025 ms, median=0.099 ms, max=4.895 ms, 99th percentile=2.708 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_main_texture: min=0.02 ms, median=0.092 ms, max=2.364 ms, 99th percentile=0.185 ms
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_output_texture: min=0.011 ms, median=0.019 ms, max=0.057 ms, 99th percentile=0.034 ms, 0.0552454 calls per parent call
+09:06:47 AM.802:  ┃ ┃ ┃ ┣render_convert_texture: min=0.014 ms, median=0.024 ms, max=0.045 ms, 99th percentile=0.041 ms, 0.0552454 calls per parent call
+09:06:47 AM.802:  ┃ ┃ ┃ ┗stage_output_texture: min=1.316 ms, median=2.184 ms, max=4.76 ms, 99th percentile=3.65 ms, 0.0552454 calls per parent call
+09:06:47 AM.802:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.179 ms, max=7.201 ms, 99th percentile=0.442 ms
+09:06:47 AM.802:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.02 ms, max=0.029 ms, 99th percentile=0.025 ms, 0.0552454 calls per parent call
+09:06:47 AM.802:  ┃ ┗output_video_data: min=0.115 ms, median=0.168 ms, max=0.623 ms, 99th percentile=0.277 ms, 0.0550984 calls per parent call
+09:06:47 AM.802:  ┗render_displays: min=0.001 ms, median=0.013 ms, max=0.176 ms, 99th percentile=0.023 ms
+09:06:47 AM.802: OBSBasic::ResetVideo: 60.616 ms
+09:06:47 AM.802: OBSBasic::ResetOutputs: 0.139 ms
+09:06:47 AM.802: video_thread(video): min=0.406 ms, median=0.819 ms, max=4.555 ms, 99th percentile=1.844 ms
+09:06:47 AM.802:  ┗receive_video: min=0.403 ms, median=0.815 ms, max=4.551 ms, 99th percentile=1.839 ms
+09:06:47 AM.802:    ┗do_encode: min=0.4 ms, median=0.81 ms, max=4.547 ms, 99th percentile=1.835 ms
+09:06:47 AM.802:      ┗encode(simple_h264_recording): min=0.391 ms, median=0.796 ms, max=2.31 ms, 99th percentile=1.828 ms
+09:06:47 AM.802: =================================================
+09:06:47 AM.802: == Profiler Time Between Calls ==================
+09:06:47 AM.802: obs_hotkey_thread(25 ms): min=25.135 ms, median=25.511 ms, max=27.785 ms, 48.2603% within ±2% of 25 ms (0% lower, 51.7397% higher)
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=32.508 ms, median=33.334 ms, max=34.236 ms, 99.5185% within ±2% of 33.333 ms (0.160514% lower, 0.321027% higher)
+09:06:47 AM.802: obs_graphics_thread(16.6667 ms): min=14.448 ms, median=16.667 ms, max=18.886 ms, 93.6508% within ±2% of 16.667 ms (2.85714% lower, 3.49206% higher)
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=32.516 ms, median=33.334 ms, max=33.903 ms, 99.3464% within ±2% of 33.333 ms (0.653595% lower, 0% higher)
+09:06:47 AM.802: obs_graphics_thread(16.6667 ms): min=5.584 ms, median=16.666 ms, max=27.548 ms, 98.6885% within ±2% of 16.667 ms (0.655738% lower, 0.655738% higher)
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=32.435 ms, median=33.331 ms, max=34.198 ms, 98.6755% within ±2% of 33.333 ms (0.662252% lower, 0.662252% higher)
+09:06:47 AM.802: obs_graphics_thread(33.3333 ms): min=33.136 ms, median=33.332 ms, max=33.537 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+09:06:47 AM.802: obs_graphics_thread(16.6667 ms): min=14.544 ms, median=16.666 ms, max=18.788 ms, 96.0176% within ±2% of 16.667 ms (2.04262% lower, 1.93975% higher)
+09:06:47 AM.802: =================================================
+09:06:47 AM.862: Number of memory leaks: 1

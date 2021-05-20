@@ -1,0 +1,6 @@
+2021/05/19-16:56:24.622 342f Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.circuitbasics.com_0.indexeddb.leveldb since it was missing.
+2021/05/19-16:56:24.632 342f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.circuitbasics.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/19-16:56:28.051 339f Level-0 table #5: started
+2021/05/19-16:56:28.055 339f Level-0 table #5: 1036 bytes OK
+2021/05/19-16:56:28.059 339f Delete type=0 #3
+2021/05/19-16:56:28.059 339f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

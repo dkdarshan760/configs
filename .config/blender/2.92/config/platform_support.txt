@@ -1,0 +1,1 @@
+{AMD/AMD RENOIR (DRM 3.40.0, 5.12.3-arch1-1, LLVM 11.1.0)/4.6 (Core Profile) Mesa 21.1.0}=SUPPORTED

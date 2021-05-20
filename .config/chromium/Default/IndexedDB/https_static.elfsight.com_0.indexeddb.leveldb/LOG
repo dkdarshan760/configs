@@ -1,0 +1,6 @@
+2021/05/20-07:04:20.128 22a1 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_static.elfsight.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-07:04:20.144 22a1 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_static.elfsight.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-07:05:59.313 22a1 Level-0 table #5: started
+2021/05/20-07:05:59.325 22a1 Level-0 table #5: 17520 bytes OK
+2021/05/20-07:05:59.332 22a1 Delete type=0 #3
+2021/05/20-07:05:59.333 22a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

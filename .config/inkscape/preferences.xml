@@ -127,8 +127,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="436.57"
-         height="250.748"
+         width="435.123"
+         height="476.317"
          ry="0" />
       <eventcontext
          id="3dbox"
@@ -546,8 +546,8 @@
        page="0"
        x="0"
        y="0"
-       w="435"
-       h="471"
+       w="573"
+       h="455"
        visible="1"
        state="2"
        placement="2" />
@@ -592,14 +592,14 @@
        path=""
        x="0"
        y="0"
-       w="435"
-       h="479"
+       w="573"
+       h="553"
        visible="1"
        state="2"
        placement="1">
       <group
          id="exportarea"
-         value="drawing" />
+         value="page" />
       <group
          id="defaultxdpi"
          value="157.2" />
@@ -964,15 +964,15 @@
      org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality" />
   <group
      id="desktop"
-     style="fill:#ffffff;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;opacity:0">
+     style="fill:#000000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;stroke:#f9f9f9">
     <group
-       width="640"
-       height="480"
+       width="1916"
+       height="1016"
        x="0"
-       y="0"
+       y="45"
        fullscreen="0"
        id="geometry"
-       maximized="1" />
+       maximized="0" />
     <group
        id="XYfront" />
     <group
@@ -1071,8 +1071,8 @@
      language="" />
   <group
      id="theme"
-     defaultTheme="Breeze"
-     defaultIconTheme="Mkos-Big-Sur"
+     defaultTheme="Raleigh"
+     defaultIconTheme="Mkos-Big-Sur-Night"
      gtkTheme="Breeze"
      iconTheme="Mkos-Big-Sur"
      menuIcons_canvas="0"

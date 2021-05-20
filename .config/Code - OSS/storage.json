@@ -3,7 +3,7 @@
     "openedPathsList": {
         "entries": [
             {
-                "folderUri": "file:///home/darshan/personalportfolio"
+                "folderUri": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager"
             },
             {
                 "folderUri": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts"
@@ -57,13 +57,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/darshan/personalportfolio",
-                                        "external": "file:///home/darshan/personalportfolio",
-                                        "path": "/home/darshan/personalportfolio",
+                                        "fsPath": "/home/darshan/Projects/FlutterProjects/flutter_file_manager",
+                                        "external": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager",
+                                        "path": "/home/darshan/Projects/FlutterProjects/flutter_file_manager",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/personalportfolio"
+                                    "label": "~/Projects/FlutterProjects/flutter_file_manager"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -412,8 +412,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "Show &&Activity Bar",
-                                    "checked": true
+                                    "label": "Show &&Activity Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -1475,8 +1474,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/darshan/personalportfolio",
-            "backupPath": "/home/darshan/.config/Code - OSS/Backups/c2a0f4c6e31c230c8a680ecc27dc4a93",
+            "folder": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager",
+            "backupPath": "/home/darshan/.config/Code - OSS/Backups/07fbf287114faa4fa5c32d1df2f615ca",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1487,5 +1486,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/darshan"
+    "pickerWorkingDir": "/home/darshan/Projects/FlutterProjects"
 }

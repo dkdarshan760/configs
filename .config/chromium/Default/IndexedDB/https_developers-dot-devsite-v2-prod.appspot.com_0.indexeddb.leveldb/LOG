@@ -1,0 +1,6 @@
+2021/05/20-07:07:04.069 24ec Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_developers-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-07:07:04.086 24ec Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_developers-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-07:07:54.464 2492 Level-0 table #5: started
+2021/05/20-07:07:54.475 2492 Level-0 table #5: 1250 bytes OK
+2021/05/20-07:07:54.479 2492 Delete type=0 #3
+2021/05/20-07:07:54.479 2492 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
