@@ -1,32 +1,26 @@
-2021/05/25-08:01:40.719 5 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/05/25-08:01:40.719 5 Recovering log #337
-2021/05/25-08:01:40.720 5 Reusing old log /home/darshan/.config/chromium/Default/Local Storage/leveldb/000337.log 
-2021/05/25-08:40:36.585 c Level-0 table #342: started
-2021/05/25-08:40:36.597 c Level-0 table #342: 105919 bytes OK
-2021/05/25-08:40:36.602 c Delete type=0 #337
-2021/05/25-08:45:01.753 c Level-0 table #344: started
-2021/05/25-08:45:01.765 c Level-0 table #344: 95523 bytes OK
-2021/05/25-08:45:01.770 c Delete type=0 #341
-2021/05/25-08:50:32.495 15 Level-0 table #346: started
-2021/05/25-08:50:32.507 15 Level-0 table #346: 97945 bytes OK
-2021/05/25-08:50:32.513 15 Delete type=0 #343
-2021/05/25-08:50:52.571 c Level-0 table #348: started
-2021/05/25-08:50:52.583 c Level-0 table #348: 95338 bytes OK
-2021/05/25-08:50:52.588 c Delete type=0 #345
-2021/05/25-08:50:52.589 c Compacting 4@0 + 2@1 files
-2021/05/25-08:50:52.617 c Generated table #349@0: 1766 keys, 2312175 bytes
-2021/05/25-08:50:52.632 c Generated table #350@0: 1859 keys, 1104358 bytes
-2021/05/25-08:50:52.632 c Compacted 4@0 + 2@1 files => 3416533 bytes
-2021/05/25-08:50:52.636 c compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/25-08:50:52.638 c Delete type=2 #338
-2021/05/25-08:50:52.638 c Delete type=2 #348
-2021/05/25-08:50:52.638 c Delete type=2 #344
-2021/05/25-08:50:52.638 c Delete type=2 #339
-2021/05/25-08:50:52.638 c Delete type=2 #342
-2021/05/25-08:50:52.638 c Delete type=2 #346
-2021/05/25-08:51:16.833 15 Level-0 table #352: started
-2021/05/25-08:51:16.845 15 Level-0 table #352: 95338 bytes OK
-2021/05/25-08:51:16.850 15 Delete type=0 #347
-2021/05/25-09:17:43.809 15 Level-0 table #354: started
-2021/05/25-09:17:43.821 15 Level-0 table #354: 95338 bytes OK
-2021/05/25-09:17:43.826 15 Delete type=0 #351
+2021/05/25-18:06:39.225 3 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/25-18:06:39.226 3 Recovering log #375
+2021/05/25-18:06:39.228 3 Reusing old log /home/darshan/.config/chromium/Default/Local Storage/leveldb/000375.log 
+2021/05/25-18:18:18.633 3 Level-0 table #379: started
+2021/05/25-18:18:18.645 3 Level-0 table #379: 20038 bytes OK
+2021/05/25-18:18:18.652 3 Delete type=0 #375
+2021/05/25-18:18:18.653 3 Compacting 4@0 + 2@1 files
+2021/05/25-18:18:18.707 3 Generated table #380@0: 1989 keys, 2512291 bytes
+2021/05/25-18:18:18.736 3 Generated table #381@0: 1920 keys, 1106617 bytes
+2021/05/25-18:18:18.736 3 Compacted 4@0 + 2@1 files => 3618908 bytes
+2021/05/25-18:18:18.741 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/05/25-18:18:18.743 3 Delete type=2 #374
+2021/05/25-18:18:18.743 3 Delete type=2 #369
+2021/05/25-18:18:18.743 3 Delete type=2 #372
+2021/05/25-18:18:18.743 3 Delete type=2 #376
+2021/05/25-18:18:18.743 3 Delete type=2 #370
+2021/05/25-18:18:18.743 3 Delete type=2 #379
+2021/05/25-18:36:10.716 11 Level-0 table #383: started
+2021/05/25-18:36:10.726 11 Level-0 table #383: 158404 bytes OK
+2021/05/25-18:36:10.731 11 Delete type=0 #378
+2021/05/25-18:47:10.717 11 Level-0 table #385: started
+2021/05/25-18:47:10.729 11 Level-0 table #385: 28593 bytes OK
+2021/05/25-18:47:10.736 11 Delete type=0 #382
+2021/05/25-19:25:18.001 2a Level-0 table #387: started
+2021/05/25-19:25:18.022 2a Level-0 table #387: 445097 bytes OK
+2021/05/25-19:25:18.029 2a Delete type=0 #384

@@ -1,5 +1,7 @@
 call plug#begin()
 
+Plug 'lervag/vimtex'
+
 Plug 'honza/vim-snippets'
 
 Plug 'natebosch/dartlang-snippets'
@@ -85,3 +87,5 @@ inoremap <buffer> ;st <esc>bi</<esc>ea>
 " a:arg
 
 
+let g:livepreview_previewer = 'zathura'
+let g:livepreview_engine = 'pdflatex'

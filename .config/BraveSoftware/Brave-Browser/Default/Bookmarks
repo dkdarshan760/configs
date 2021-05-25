@@ -1,0 +1,47 @@
+{
+   "checksum": "f86703b4ab0d27a8dccdbfed7c8d5aed",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13266146113000000",
+            "guid": "08a46147-6cae-498e-aa28-7cd04b459c66",
+            "id": "5",
+            "name": "Lazy Foo' Productions - Hello SDL: Your First Graphics Window",
+            "type": "url",
+            "url": "https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index2.php"
+         }, {
+            "date_added": "13266255058000000",
+            "guid": "5a493b4b-2582-42a8-9651-af6780ce2d98",
+            "id": "6",
+            "name": "PDF File viewer | Microsoft Teams",
+            "type": "url",
+            "url": "https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn#/pdf/viewer/teams/https:~2F~2Ftunepal.sharepoint.com~2Fsites~2FPUCSH401MATHIBCTAB~2FShared%20Documents~2FGeneral~2FODE_2.pdf?threadId=19:55bd5e2b8fa940db82fd1eed30453f29@thread.tacv2&messageId=1621762917990&baseUrl=https:~2F~2Ftunepal.sharepoint.com~2Fsites~2FPUCSH401MATHIBCTAB&fileId=fd7fb9c0-d6ea-472d-9776-c274fe7f7e8b&ctx=chiclet&viewerAction=view"
+         } ],
+         "date_added": "13266423705656156",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13266423705656159",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13266423705656161",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -23,7 +23,7 @@ set $menu dmenu_path | dmenu -b  -l 5 -fn Ubuntu -sb white -sf black -nb black -
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/darshan/.kde4/share/wallpapers/sunset_martinkra_instagram.jpg fill
+output * bg /home/darshan/.kde4/share/wallpapers/wallhaven-night.png fill
 #
 # Example configuration:
 #
@@ -203,7 +203,7 @@ bindsym $mod+r mode "resize"
 #
 # Read `man 5 sway-bar` for more information about this section.
 bar {
-	swaybar_command waybar
+  swaybar_command waybar
     }
 }
 
@@ -231,7 +231,7 @@ bindsym Ctrl+Shift+a exec pactl set-source-volume @DEFAULT_SOURCE@ -5%
 bindsym $mod+Shift+b exec brightnessctl set 5%-
 bindsym $mod+Shift+v exec brightnessctl set +5%
 
-exec nm-applet 
+#exec nm-applet 
 
 bindsym Print exec sway-interactive-screenshot
 bindsym Ctrl+Shift+$mod+x exec ~/.config/.bashScripts/shutdown.sh
@@ -272,4 +272,4 @@ bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pd
 
 bindsym $mod+n exec alacritty --command nvim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
 
-bindsym $mod+u exec dmenu -fn "Ubuntu-20" | xargs -I {} "youtubedl -j "ytsearch10:{}" " | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 
+bindsym $mod+u exec echo -e "something" | dmenu -fn "Ubuntu-20" | xargs -I {} youtubedl -j ytsearch10:"{}"  | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 

@@ -1,9 +1,15 @@
-2021/05/23-20:01:59.947 c2ee Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/23-20:01:59.948 c2ee Recovering log #23
-2021/05/23-20:01:59.948 c2ee Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
-2021/05/23-20:02:14.052 c645 Compacting 1@1 + 1@2 files
-2021/05/23-20:02:14.060 c645 Generated table #26@1: 83 keys, 34144 bytes
-2021/05/23-20:02:14.060 c645 Compacted 1@1 + 1@2 files => 34144 bytes
-2021/05/23-20:02:14.064 c645 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/23-20:02:14.064 c645 Delete type=2 #21
-2021/05/23-20:02:14.064 c645 Delete type=2 #24
+2021/05/25-16:32:15.143 d0c9 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-16:32:15.144 d0c9 Recovering log #32
+2021/05/25-16:32:15.144 d0c9 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000032.log 
+2021/05/25-16:32:54.775 d0c9 Level-0 table #37: started
+2021/05/25-16:32:54.788 d0c9 Level-0 table #37: 145357 bytes OK
+2021/05/25-16:32:54.793 d0c9 Delete type=0 #32
+2021/05/25-16:32:54.793 d0c9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/25-16:32:54.793 d0c9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 10173 : 1
+2021/05/25-16:32:54.793 d0c9 Compacting 1@1 + 1@2 files
+2021/05/25-16:32:54.801 d0c9 Generated table #38@1: 159 keys, 157666 bytes
+2021/05/25-16:32:54.801 d0c9 Compacted 1@1 + 1@2 files => 157666 bytes
+2021/05/25-16:32:54.805 d0c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-16:32:54.805 d0c9 Delete type=2 #34
+2021/05/25-16:32:54.805 d0c9 Delete type=2 #37
+2021/05/25-16:32:54.806 d0c9 Manual compaction at level-1 from '\x00\x01\x01\x02\x019\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 10173 : 1 .. (end); will stop at (end)

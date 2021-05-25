@@ -1683,3 +1683,13 @@
 [Modules] Finished module installations. [success: 0] [failure: 5]
 [Modules] Checking for host updates.
 [Modules] Host update is available. Manual update required!
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/darshan/.config/discord/0.0.14/modules
+[Modules] Module installed file path: /home/darshan/.config/discord/0.0.14/modules/installed.json
+[Modules] Module download path: /home/darshan/.config/discord/0.0.14/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!

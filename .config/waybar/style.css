@@ -10,7 +10,7 @@
 }
 
 window#waybar {
-    background-color: rgba(43, 48, 59, 1);
+    background-color: rgba(43, 48, 59, 0);
     border-bottom: 3px solid rgba(100, 114, 125, 0.5);
     color: #ffffff;
     transition-property: background-color;
@@ -45,11 +45,12 @@ window#waybar.termite {
 
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 #workspaces button:hover {
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 1);
 }
 
 #workspaces button.focused {
-    background-color: #64727D;
+    background-color: rgba(225, 225, 225, 1);
+    color: black;
 }
 
 #workspaces button.urgent {
@@ -96,16 +97,17 @@ window#waybar.termite {
 }
 
 #clock {
-    background-color: #64727D;
+    background-color: rgba(0,0,0,1);
+    color: white;
 }
 
 #battery {
     background-color: #ffffff;
-    color: #000000;
+    color: white;
 }
 
 #battery.charging, #battery.plugged {
-    color: #ffffff;
+    color: black;
     background-color: #26A65B;
 }
 
@@ -136,7 +138,8 @@ label:focus {
 }
 
 #memory {
-    background-color: #9b59b6;
+    background-color: #9b59c6;
+    color: white;
 }
 
 #disk {

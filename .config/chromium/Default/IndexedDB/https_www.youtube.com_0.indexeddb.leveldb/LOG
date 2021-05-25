@@ -1,3 +1,15 @@
-2021/05/25-09:33:05.895 3eaf Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/25-09:33:05.896 3eaf Recovering log #164
-2021/05/25-09:33:05.898 3eaf Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000164.log 
+2021/05/25-18:32:06.360 1594 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-18:32:06.361 1594 Recovering log #176
+2021/05/25-18:32:06.361 1594 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000176.log 
+2021/05/25-18:56:51.433 1bbb Level-0 table #181: started
+2021/05/25-18:56:51.443 1bbb Level-0 table #181: 285855 bytes OK
+2021/05/25-18:56:51.447 1bbb Delete type=0 #176
+2021/05/25-18:56:51.448 1bbb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/25-18:56:51.448 1bbb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 147908 : 1
+2021/05/25-18:56:51.448 1bbb Compacting 1@1 + 1@2 files
+2021/05/25-18:56:51.456 1bbb Generated table #182@1: 473 keys, 24709 bytes
+2021/05/25-18:56:51.456 1bbb Compacted 1@1 + 1@2 files => 24709 bytes
+2021/05/25-18:56:51.459 1bbb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-18:56:51.460 1bbb Delete type=2 #181
+2021/05/25-18:56:51.460 1bbb Delete type=2 #178
+2021/05/25-18:56:51.460 1bbb Manual compaction at level-1 from '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 147908 : 1 .. (end); will stop at (end)
