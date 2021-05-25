@@ -1,23 +1,17 @@
 {
   "discord_desktop_core": {
-    "installedVersion": 1
+    "installedVersion": 0
   },
   "discord_erlpack": {
-    "installedVersion": 1
+    "installedVersion": 0
   },
   "discord_spellcheck": {
-    "installedVersion": 1
+    "installedVersion": 0
   },
   "discord_utils": {
-    "installedVersion": 1
+    "installedVersion": 0
   },
   "discord_voice": {
-    "installedVersion": 3
-  },
-  "discord_game_utils": {
-    "installedVersion": 1
-  },
-  "discord_rpc": {
-    "installedVersion": 1
+    "installedVersion": 0
   }
 }

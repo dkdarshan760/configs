@@ -1,6 +1,9 @@
-2021/05/19-07:22:26.804 169e Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2021/05/19-07:22:26.813 169e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/19-07:22:58.814 16a9 Level-0 table #5: started
-2021/05/19-07:22:58.825 16a9 Level-0 table #5: 2018 bytes OK
-2021/05/19-07:22:58.829 16a9 Delete type=0 #3
-2021/05/19-07:22:58.830 16a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/23-20:01:59.947 c2ee Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/23-20:01:59.948 c2ee Recovering log #23
+2021/05/23-20:01:59.948 c2ee Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000023.log 
+2021/05/23-20:02:14.052 c645 Compacting 1@1 + 1@2 files
+2021/05/23-20:02:14.060 c645 Generated table #26@1: 83 keys, 34144 bytes
+2021/05/23-20:02:14.060 c645 Compacted 1@1 + 1@2 files => 34144 bytes
+2021/05/23-20:02:14.064 c645 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/23-20:02:14.064 c645 Delete type=2 #21
+2021/05/23-20:02:14.064 c645 Delete type=2 #24

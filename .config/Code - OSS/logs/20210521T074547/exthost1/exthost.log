@@ -1,0 +1,35 @@
+[2021-05-21 07:45:48.784] [exthost] [info] extension host started
+[2021-05-21 07:45:48.946] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"onLanguage:dart"}
+[2021-05-21 07:45:48.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/dart-code.dart-code-3.22.0/out/dist/extension
+[2021-05-21 07:45:48.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-21 07:45:48.998] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-05-21 07:45:48.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-21 07:45:48.999] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-05-21 07:45:49.012] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-05-21 07:45:49.012] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-05-21 07:45:49.020] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-05-21 07:45:49.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/vscodevim.vim-1.20.2/out/extension
+[2021-05-21 07:45:49.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-21 07:45:49.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-05-21 07:45:49.431] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.flutter {"startup":false,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"api"}
+[2021-05-21 07:45:49.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/dart-code.flutter-3.22.0/out/src/extension
+[2021-05-21 07:45:49.433] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-21 07:45:49.433] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-21 07:45:49.574] [exthost] [info] eager extensions activated
+[2021-05-21 07:45:49.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-21 07:45:49.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-21 07:45:49.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-21 07:45:49.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-21 07:45:49.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-21 07:45:49.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-21 07:45:49.612] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-05-21 07:45:49.612] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/darshan/.vscode-oss/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-05-21 07:45:49.725] [exthost] [error] [Dart-Code.dart-code] provider FAILED
+[2021-05-21 07:45:49.725] [exthost] [error] {"code":"GET_FIXES_INVALID_FILE","message":"Error during `edit.getFixes`: invalid file."}
+[2021-05-21 07:45:50.075] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-05-21 07:45:51.725] [exthost] [warning] TextEditor is closed/disposed
+[2021-05-21 07:52:17.673] [exthost] [warning] TextEditor is closed/disposed
+[2021-05-21 07:55:49.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-05-21 07:55:49.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-server-ready/dist/extension
+[2021-05-21 08:14:35.569] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-21 08:14:36.593] [exthost] [info] exiting with code 0

@@ -49,7 +49,9 @@ let g:coc_global_extensions = [
   \ 'coc-prettier', 
   \ 'coc-json',
 	\ 'coc-flutter',
-  \ 'coc-flutter-tools'
+  \ 'coc-flutter-tools',
+  \ 'coc-emmet',
+  \ 'coc-snippets'
   \ ]
 set updatetime=20
 
@@ -68,4 +70,18 @@ endfunction
 " Use <c-space> to trigger completion.
 inoremap <silent><expr> <c-space> coc#refresh()
 inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+
+hi Pmenu ctermbg=black ctermfg=white
+hi MatchParen ctermbg=black ctermfg=10  
+hi VertSplit ctermfg=black ctermbg=black
+
+
+
+inoremap <buffer> ;t <esc>yiwi<lt><esc>ea></><esc>hpF>a
+
+inoremap <buffer> ;st <esc>bi</<esc>ea>
+
+ 
+" a:arg
+
 

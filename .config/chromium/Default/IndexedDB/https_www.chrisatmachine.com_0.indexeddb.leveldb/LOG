@@ -1,0 +1,6 @@
+2021/05/22-11:30:01.021 2fb1 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb since it was missing.
+2021/05/22-11:30:01.037 2fb1 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/22-11:30:39.981 2fb1 Level-0 table #5: started
+2021/05/22-11:30:39.985 2fb1 Level-0 table #5: 2425 bytes OK
+2021/05/22-11:30:39.989 2fb1 Delete type=0 #3
+2021/05/22-11:30:39.989 2fb1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

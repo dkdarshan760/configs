@@ -1,0 +1,40 @@
+{
+   "checksum": "c97437a3f8f08bc27595031307e90f82",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13266146113190631",
+            "guid": "6397e113-25d4-44aa-a642-c7b64bc5a20b",
+            "id": "5",
+            "name": "Lazy Foo' Productions - Hello SDL: Your First Graphics Window",
+            "type": "url",
+            "url": "https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index2.php"
+         } ],
+         "date_added": "13266141392479843",
+         "date_modified": "13266146113190631",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13266141392479847",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13266141392479848",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

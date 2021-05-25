@@ -1,0 +1,6 @@
+file:///home/darshan/package.json {"mtime":1621665782827,"ctime":1621665782827,"size":64,"etag":"3708io4sj22","orphaned":false,"typeId":""}
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2"
+  }
+}

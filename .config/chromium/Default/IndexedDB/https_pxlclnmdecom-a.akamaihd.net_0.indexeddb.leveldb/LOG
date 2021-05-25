@@ -1,6 +1,15 @@
-2021/05/19-16:56:24.740 342f Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb since it was missing.
-2021/05/19-16:56:24.757 342f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/19-16:56:28.060 339f Level-0 table #5: started
-2021/05/19-16:56:28.063 339f Level-0 table #5: 1108 bytes OK
-2021/05/19-16:56:28.067 339f Delete type=0 #3
-2021/05/19-16:56:28.067 339f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-20:18:18.644 8f6f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-20:18:18.644 8f6f Recovering log #7
+2021/05/20-20:18:18.644 8f6f Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/000007.log 
+2021/05/20-20:18:20.656 8f67 Level-0 table #12: started
+2021/05/20-20:18:20.663 8f67 Level-0 table #12: 483 bytes OK
+2021/05/20-20:18:20.667 8f67 Delete type=0 #7
+2021/05/20-20:18:20.668 8f67 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-20:18:20.668 8f67 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00b\x00a\x00f\x00p\x00_\x00t' @ 110 : 1
+2021/05/20-20:18:20.668 8f67 Compacting 1@1 + 1@2 files
+2021/05/20-20:18:20.672 8f67 Generated table #13@1: 20 keys, 625 bytes
+2021/05/20-20:18:20.672 8f67 Compacted 1@1 + 1@2 files => 625 bytes
+2021/05/20-20:18:20.675 8f67 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/20-20:18:20.676 8f67 Delete type=2 #9
+2021/05/20-20:18:20.676 8f67 Delete type=2 #12
+2021/05/20-20:18:20.676 8f67 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00b\x00a\x00f\x00p\x00_\x00t' @ 110 : 1 .. (end); will stop at (end)

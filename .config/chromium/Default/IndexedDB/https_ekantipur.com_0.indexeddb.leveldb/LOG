@@ -1,0 +1,6 @@
+2021/05/20-19:23:30.114 7894 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_ekantipur.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-19:23:30.126 7894 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_ekantipur.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-19:23:52.561 7910 Level-0 table #5: started
+2021/05/20-19:23:52.565 7910 Level-0 table #5: 5633 bytes OK
+2021/05/20-19:23:52.569 7910 Delete type=0 #3
+2021/05/20-19:23:52.570 7910 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

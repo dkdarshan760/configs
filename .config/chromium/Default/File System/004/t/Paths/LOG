@@ -1,2 +1,3 @@
-2021/05/19-16:56:24.744 33a1 Creating DB /home/darshan/.config/chromium/Default/File System/004/t/Paths since it was missing.
-2021/05/19-16:56:24.760 33a1 Reusing MANIFEST /home/darshan/.config/chromium/Default/File System/004/t/Paths/MANIFEST-000001
+2021/05/20-20:18:18.647 8f67 Reusing MANIFEST /home/darshan/.config/chromium/Default/File System/004/t/Paths/MANIFEST-000001
+2021/05/20-20:18:18.647 8f67 Recovering log #3
+2021/05/20-20:18:18.647 8f67 Reusing old log /home/darshan/.config/chromium/Default/File System/004/t/Paths/000003.log 

@@ -1,0 +1,6 @@
+2021/05/20-14:53:18.310 2fe9 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_aax.forbes.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-14:53:18.321 2fe9 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_aax.forbes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-14:53:21.127 2fe9 Level-0 table #5: started
+2021/05/20-14:53:21.130 2fe9 Level-0 table #5: 791 bytes OK
+2021/05/20-14:53:21.134 2fe9 Delete type=0 #3
+2021/05/20-14:53:21.134 2fe9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/05/24-19:13:17.358 61a1 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb since it was missing.
+2021/05/24-19:13:17.370 61a1 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.linuxadictos.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/24-19:13:27.998 77f2 Level-0 table #5: started
+2021/05/24-19:13:28.002 77f2 Level-0 table #5: 6113 bytes OK
+2021/05/24-19:13:28.006 77f2 Delete type=0 #3
+2021/05/24-19:13:28.007 77f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

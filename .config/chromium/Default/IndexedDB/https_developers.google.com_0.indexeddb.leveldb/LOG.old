@@ -1,6 +1,8 @@
-2021/05/20-07:07:02.701 2492 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb since it was missing.
-2021/05/20-07:07:02.713 2492 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/20-07:08:24.939 24ec Level-0 table #5: started
-2021/05/20-07:08:24.950 24ec Level-0 table #5: 1832 bytes OK
-2021/05/20-07:08:24.955 24ec Delete type=0 #3
-2021/05/20-07:08:24.955 24ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-07:59:17.189 2ff2 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-07:59:17.189 2ff2 Recovering log #4
+2021/05/20-07:59:17.189 2ff2 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/000004.log 
+2021/05/20-07:59:49.975 31b3 Level-0 table #8: started
+2021/05/20-07:59:49.975 31b3 Level-0 table #8: 0 bytes OK
+2021/05/20-07:59:49.986 31b3 Delete type=0 #4
+2021/05/20-07:59:49.986 31b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/20-07:59:49.986 31b3 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

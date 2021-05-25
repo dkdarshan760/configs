@@ -1,20 +1,40 @@
-2021/05/20-12:01:20.066 9fd Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2021/05/20-12:01:20.067 9fd Recovering log #361
-2021/05/20-12:01:20.067 9fd Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000361.log 
-2021/05/20-12:02:22.852 ad2 Level-0 table #365: started
-2021/05/20-12:02:22.901 ad2 Level-0 table #365: 5696784 bytes OK
-2021/05/20-12:02:22.906 ad2 Delete type=0 #361
-2021/05/20-12:03:23.638 a09 Level-0 table #367: started
-2021/05/20-12:03:23.731 a09 Level-0 table #367: 5696528 bytes OK
-2021/05/20-12:03:23.736 a09 Delete type=0 #364
-2021/05/20-12:03:23.737 a09 Compacting 4@0 + 2@1 files
-2021/05/20-12:03:23.809 a09 Generated table #368@0: 1 keys, 5696528 bytes
-2021/05/20-12:03:23.813 a09 Generated table #369@0: 5 keys, 373 bytes
-2021/05/20-12:03:23.813 a09 Compacted 4@0 + 2@1 files => 5696901 bytes
-2021/05/20-12:03:23.817 a09 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/20-12:03:23.817 a09 Delete type=2 #357
-2021/05/20-12:03:23.817 a09 Delete type=2 #360
-2021/05/20-12:03:23.818 a09 Delete type=2 #367
-2021/05/20-12:03:23.818 a09 Delete type=2 #362
-2021/05/20-12:03:23.818 a09 Delete type=2 #365
-2021/05/20-12:03:23.818 a09 Delete type=2 #358
+2021/05/25-08:01:41.064 10d0 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/05/25-08:01:41.065 10d0 Recovering log #1210
+2021/05/25-08:01:41.065 10d0 Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001210.log 
+2021/05/25-08:02:43.809 10d0 Level-0 table #1214: started
+2021/05/25-08:02:43.858 10d0 Level-0 table #1214: 5704128 bytes OK
+2021/05/25-08:02:43.863 10d0 Delete type=0 #1210
+2021/05/25-08:02:43.866 10d0 Compacting 4@0 + 2@1 files
+2021/05/25-08:02:43.923 10d0 Generated table #1215@0: 1 keys, 5703940 bytes
+2021/05/25-08:02:43.927 10d0 Generated table #1216@0: 6 keys, 388 bytes
+2021/05/25-08:02:43.927 10d0 Compacted 4@0 + 2@1 files => 5704328 bytes
+2021/05/25-08:02:43.931 10d0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1204
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1214
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1203
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1209
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1207
+2021/05/25-08:02:43.931 10d0 Delete type=2 #1211
+2021/05/25-08:25:00.739 14bd Level-0 table #1218: started
+2021/05/25-08:25:00.824 14bd Level-0 table #1218: 5703940 bytes OK
+2021/05/25-08:25:00.830 14bd Delete type=0 #1213
+2021/05/25-09:02:43.839 3eac Level-0 table #1220: started
+2021/05/25-09:02:43.888 3eac Level-0 table #1220: 5704065 bytes OK
+2021/05/25-09:02:43.892 3eac Delete type=0 #1217
+2021/05/25-09:02:44.075 3eac Level-0 table #1222: started
+2021/05/25-09:02:44.164 3eac Level-0 table #1222: 5703939 bytes OK
+2021/05/25-09:02:44.171 3eac Delete type=0 #1219
+2021/05/25-09:17:38.809 3eaf Level-0 table #1224: started
+2021/05/25-09:17:38.857 3eaf Level-0 table #1224: 5704130 bytes OK
+2021/05/25-09:17:38.861 3eaf Delete type=0 #1221
+2021/05/25-09:17:38.862 3eaf Compacting 4@0 + 2@1 files
+2021/05/25-09:17:38.963 3eaf Generated table #1225@0: 1 keys, 5703936 bytes
+2021/05/25-09:17:38.970 3eaf Generated table #1226@0: 6 keys, 388 bytes
+2021/05/25-09:17:38.970 3eaf Compacted 4@0 + 2@1 files => 5704324 bytes
+2021/05/25-09:17:38.973 3eaf compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1224
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1216
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1222
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1220
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1215
+2021/05/25-09:17:38.974 3eaf Delete type=2 #1218

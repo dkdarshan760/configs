@@ -23,7 +23,7 @@ set $menu dmenu_path | dmenu -b  -l 5 -fn Ubuntu -sb white -sf black -nb black -
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/darshan/.kde4/share/wallpapers/4k-Arch-Planet.png fill
+output * bg /home/darshan/.kde4/share/wallpapers/sunset_martinkra_instagram.jpg fill
 #
 # Example configuration:
 #
@@ -38,7 +38,7 @@ output * bg /home/darshan/.kde4/share/wallpapers/4k-Arch-Planet.png fill
 # exec swayidle -w \
 #          timeout 300 'swaylock -f -c 000000' \
 #          timeout 600 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
-#          before-sleep 'swaylock -f -c 000000'
+##          before-sleep 'swaylock -f -c 000000'
 #
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
@@ -55,7 +55,6 @@ output * bg /home/darshan/.kde4/share/wallpapers/4k-Arch-Planet.png fill
        middle_emulation enabled
    }
 #
-input "type:keyboard" xkb_options caps:swapescape
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
 
@@ -240,3 +239,37 @@ bindsym $mod+f1 exec alacritty --command ranger
 #for 
 gaps inner 20
 gaps outer 20
+
+
+
+
+
+#Switching Keyboard Layouts
+
+
+#   input "type:keyboard" {            
+#       xkb_layout us,ne
+#       xkb_variant ,nodeadkeys
+#       xkb_options grp:alt_shift_toggle
+#   }
+
+input "type:keyboard" xkb_options caps:swapescape
+
+exec fcitx5 -d &
+exec dunst & 
+# & to launch in the background
+
+## SOME EXTREMELY USEFUL SCRIPTS
+
+
+#document file searcher and opener
+
+bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pdf' | dmenu -i -l 9 -fn "Ubuntu-20" -nb black -sb purple -p "YOUR PDF:")"
+
+#all file searcher and openeer
+
+
+
+bindsym $mod+n exec alacritty --command nvim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
+
+bindsym $mod+u exec dmenu -fn "Ubuntu-20" | xargs -I {} "youtubedl -j "ytsearch10:{}" " | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 

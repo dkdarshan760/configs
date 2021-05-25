@@ -1,0 +1,15 @@
+[2021-05-21 17:19:43.610] [renderer1] [error] Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.: Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at b.reject (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:15303)
+    at b.resolveAndValidate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:18531)
+    at b.doWriteConfiguration (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:12493)
+    at Object.factory (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:12269)
+    at y.consume (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:68:16187)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:68:16002
+    at new Promise (<anonymous>)
+    at y.queue (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:68:15926)
+    at b.writeConfiguration (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:12254)
+    at y.writeConfigurationValue (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:41602)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:27620
+    at Array.map (<anonymous>)
+    at y.updateValue (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2188:27608)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

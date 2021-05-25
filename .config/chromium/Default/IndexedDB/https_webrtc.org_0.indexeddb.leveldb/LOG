@@ -1,0 +1,6 @@
+2021/05/20-16:02:18.766 5238 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_webrtc.org_0.indexeddb.leveldb since it was missing.
+2021/05/20-16:02:18.776 5238 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_webrtc.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-16:03:05.897 52f5 Level-0 table #5: started
+2021/05/20-16:03:05.901 52f5 Level-0 table #5: 1809 bytes OK
+2021/05/20-16:03:05.904 52f5 Delete type=0 #3
+2021/05/20-16:03:05.904 52f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

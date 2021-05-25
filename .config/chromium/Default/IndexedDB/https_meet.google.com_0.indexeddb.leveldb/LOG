@@ -1,0 +1,15 @@
+2021/05/25-08:01:43.461 10d2 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-08:01:43.461 10d2 Recovering log #7
+2021/05/25-08:01:43.461 10d2 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 
+2021/05/25-09:33:17.049 3eaf Level-0 table #12: started
+2021/05/25-09:33:17.053 3eaf Level-0 table #12: 1316 bytes OK
+2021/05/25-09:33:17.057 3eaf Delete type=0 #7
+2021/05/25-09:33:17.057 3eaf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/25-09:33:17.057 3eaf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 302 : 1
+2021/05/25-09:33:17.057 3eaf Compacting 1@1 + 1@2 files
+2021/05/25-09:33:17.061 3eaf Generated table #13@1: 20 keys, 669 bytes
+2021/05/25-09:33:17.061 3eaf Compacted 1@1 + 1@2 files => 669 bytes
+2021/05/25-09:33:17.064 3eaf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-09:33:17.065 3eaf Delete type=2 #9
+2021/05/25-09:33:17.065 3eaf Delete type=2 #12
+2021/05/25-09:33:17.065 3eaf Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 302 : 1 .. (end); will stop at (end)

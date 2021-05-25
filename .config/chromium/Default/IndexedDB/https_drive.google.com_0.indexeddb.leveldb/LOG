@@ -1,0 +1,7 @@
+2021/05/23-18:26:35.841 a187 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/23-18:26:35.841 a187 Recovering log #3
+2021/05/23-18:26:35.843 a187 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2021/05/23-18:29:50.727 a188 Level-0 table #5: started
+2021/05/23-18:29:50.739 a188 Level-0 table #5: 2325549 bytes OK
+2021/05/23-18:29:50.744 a188 Delete type=0 #3
+2021/05/23-18:29:50.745 a188 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

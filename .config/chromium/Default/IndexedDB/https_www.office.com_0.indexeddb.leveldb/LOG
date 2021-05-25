@@ -1,0 +1,6 @@
+2021/05/23-20:17:14.977 c8c1 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb since it was missing.
+2021/05/23-20:17:14.995 c8c1 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/23-20:17:17.002 c8c1 Level-0 table #5: started
+2021/05/23-20:17:17.013 c8c1 Level-0 table #5: 217 bytes OK
+2021/05/23-20:17:17.018 c8c1 Delete type=0 #3
+2021/05/23-20:17:17.018 c8c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

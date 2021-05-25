@@ -1,0 +1,17 @@
+2021/05/24-13:50:37.544 2c64 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/24-13:50:37.544 2c64 Recovering log #24
+2021/05/24-13:50:37.550 2c64 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000024.log 
+2021/05/24-17:07:23.786 418a Level-0 table #30: started
+2021/05/24-17:07:23.808 418a Level-0 table #30: 1168636 bytes OK
+2021/05/24-17:07:23.813 418a Delete type=0 #24
+2021/05/24-17:07:23.815 418a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/24-17:07:23.815 418a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x00\x00\xc8\x0e\x00C\x00a\x00l\x00e\x00n\x00d\x00a\x00r\x00E\x00v\x00e\x00n\x00t\x00s' @ 45682 : 1
+2021/05/24-17:07:23.815 418a Compacting 1@1 + 2@2 files
+2021/05/24-17:07:23.852 418a Generated table #31@1: 4532 keys, 2162354 bytes
+2021/05/24-17:07:23.868 418a Generated table #32@1: 1426 keys, 441792 bytes
+2021/05/24-17:07:23.868 418a Compacted 1@1 + 2@2 files => 2604146 bytes
+2021/05/24-17:07:23.872 418a compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/05/24-17:07:23.873 418a Delete type=2 #26
+2021/05/24-17:07:23.873 418a Delete type=2 #27
+2021/05/24-17:07:23.873 418a Delete type=2 #30
+2021/05/24-17:07:23.874 418a Manual compaction at level-1 from '\x00\x0c\x00\x00\xc8\x0e\x00C\x00a\x00l\x00e\x00n\x00d\x00a\x00r\x00E\x00v\x00e\x00n\x00t\x00s' @ 45682 : 1 .. (end); will stop at (end)

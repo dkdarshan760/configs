@@ -1,1 +1,1 @@
-{"version":"1.0","registers":[["%",[{"text":"App.js","registerMode":1}]]]}
+{"version":"1.0","registers":[["%",[{"text":"config","registerMode":1}]],["#",[{"text":"lib/main.dart","registerMode":1}]],["\"",[{"registerMode":2,"text":"        MirrorAnimation(tween: (-100.0).tweenTo(100.0),"}]],["1",[{"text":"        MirrorAnimation(tween: (-100.0).tweenTo(100.0),","registerMode":2}]]]}

@@ -1,0 +1,6 @@
+2021/05/21-16:09:52.908 37fa Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
+2021/05/21-16:09:52.918 37fa Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/21-16:28:17.647 3817 Level-0 table #5: started
+2021/05/21-16:28:17.653 3817 Level-0 table #5: 4139 bytes OK
+2021/05/21-16:28:17.657 3817 Delete type=0 #3
+2021/05/21-16:28:17.658 3817 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -127,8 +127,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="435.123"
-         height="476.317"
+         width="624.185"
+         height="660.458"
          ry="0" />
       <eventcontext
          id="3dbox"
@@ -546,8 +546,8 @@
        page="0"
        x="0"
        y="0"
-       w="573"
-       h="455"
+       w="457"
+       h="494"
        visible="1"
        state="2"
        placement="2" />
@@ -592,14 +592,14 @@
        path=""
        x="0"
        y="0"
-       w="573"
-       h="553"
+       w="457"
+       h="489"
        visible="1"
        state="2"
        placement="1">
       <group
          id="exportarea"
-         value="page" />
+         value="drawing" />
       <group
          id="defaultxdpi"
          value="157.2" />
@@ -972,7 +972,7 @@
        y="45"
        fullscreen="0"
        id="geometry"
-       maximized="0" />
+       maximized="1" />
     <group
        id="XYfront" />
     <group
@@ -1071,8 +1071,8 @@
      language="" />
   <group
      id="theme"
-     defaultTheme="Raleigh"
-     defaultIconTheme="Mkos-Big-Sur-Night"
+     defaultTheme="Breeze"
+     defaultIconTheme="Mkos-Big-Sur"
      gtkTheme="Breeze"
      iconTheme="Mkos-Big-Sur"
      menuIcons_canvas="0"

@@ -1,0 +1,6 @@
+2021/05/20-20:18:18.561 8f67 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.2daygeek.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-20:18:18.577 8f67 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.2daygeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-20:18:22.076 8e86 Level-0 table #5: started
+2021/05/20-20:18:22.086 8e86 Level-0 table #5: 1031 bytes OK
+2021/05/20-20:18:22.090 8e86 Delete type=0 #3
+2021/05/20-20:18:22.090 8e86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

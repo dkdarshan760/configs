@@ -3,10 +3,25 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/darshan/Projects/FlutterProjects/personalportfolio"
+            },
+            {
+                "folderUri": "file:///home/darshan/Projects/FlutterProjects/system_monitor"
+            },
+            {
+                "folderUri": "file:///home/darshan/Projects/FlutterProjects/flutter_spotify_ui"
+            },
+            {
                 "folderUri": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager"
             },
             {
                 "folderUri": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts"
+            },
+            {
+                "fileUri": "file:///home/darshan/.config/sway/config"
+            },
+            {
+                "fileUri": "file:///home/darshan/.config/fcitx/config"
             },
             {
                 "fileUri": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts/src/App.js"
@@ -57,7 +72,39 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/darshan/Projects/FlutterProjects/flutter_file_manager",
+                                        "external": "file:///home/darshan/Projects/FlutterProjects/personalportfolio",
+                                        "path": "/home/darshan/Projects/FlutterProjects/personalportfolio",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/FlutterProjects/personalportfolio"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/darshan/Projects/FlutterProjects/system_monitor",
+                                        "path": "/home/darshan/Projects/FlutterProjects/system_monitor",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/FlutterProjects/system_monitor"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/darshan/Projects/FlutterProjects/flutter_spotify_ui",
+                                        "path": "/home/darshan/Projects/FlutterProjects/flutter_spotify_ui",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/FlutterProjects/flutter_spotify_ui"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager",
                                         "path": "/home/darshan/Projects/FlutterProjects/flutter_file_manager",
                                         "scheme": "file"
@@ -83,6 +130,29 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/darshan/.config/sway/config",
+                                        "path": "/home/darshan/.config/sway/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/sway/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/darshan/.config/fcitx/config",
+                                        "path": "/home/darshan/.config/fcitx/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/fcitx/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/darshan/Projects/ReactProjects/sanskritpodcasts/src/App.js",
                                         "path": "/home/darshan/Projects/ReactProjects/sanskritpodcasts/src/App.js",
                                         "scheme": "file"
                                     },
@@ -130,8 +200,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -206,7 +275,8 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Folder",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -402,8 +472,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -421,8 +490,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -574,8 +642,7 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Show &&Minimap",
-                        "checked": true
+                        "label": "Show &&Minimap"
                     },
                     {
                         "id": "breadcrumbs.toggle",
@@ -597,7 +664,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -606,7 +674,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -923,7 +992,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1471,11 +1541,10 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#221a0f",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/darshan/Projects/FlutterProjects/flutter_file_manager",
-            "backupPath": "/home/darshan/.config/Code - OSS/Backups/07fbf287114faa4fa5c32d1df2f615ca",
+            "backupPath": "/home/darshan/.config/Code - OSS/Backups/1621596697074",
             "uiState": {
                 "mode": 0,
                 "x": 0,
