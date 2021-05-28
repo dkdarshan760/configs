@@ -1,17 +1,17 @@
-2021/05/25-18:35:10.318 1594 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/25-18:35:10.318 1594 Recovering log #39
-2021/05/25-18:35:10.318 1594 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000039.log 
-2021/05/25-19:10:52.022 1e5c Level-0 table #45: started
-2021/05/25-19:10:52.037 1e5c Level-0 table #45: 247579 bytes OK
-2021/05/25-19:10:52.041 1e5c Delete type=0 #39
-2021/05/25-19:10:52.041 1e5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/25-19:10:52.042 1e5c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0d\x01\x02\x01\x10\x00p\x00r\x00i\x00v\x00_\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00_\x00i\x00d' @ 60546 : 1
-2021/05/25-19:10:52.042 1e5c Compacting 1@1 + 2@2 files
-2021/05/25-19:10:52.090 1e5c Generated table #46@1: 4586 keys, 2153707 bytes
-2021/05/25-19:10:52.099 1e5c Generated table #47@1: 1525 keys, 549570 bytes
-2021/05/25-19:10:52.099 1e5c Compacted 1@1 + 2@2 files => 2703277 bytes
-2021/05/25-19:10:52.103 1e5c compacted to: files[ 0 0 2 0 0 0 0 ]
-2021/05/25-19:10:52.103 1e5c Delete type=2 #41
-2021/05/25-19:10:52.103 1e5c Delete type=2 #42
-2021/05/25-19:10:52.103 1e5c Delete type=2 #45
-2021/05/25-19:10:52.104 1e5c Manual compaction at level-1 from '\x00\x0d\x01\x02\x01\x10\x00p\x00r\x00i\x00v\x00_\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00_\x00i\x00d' @ 60546 : 1 .. (end); will stop at (end)
+2021/05/27-16:10:38.661 1a54 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/27-16:10:38.662 1a54 Recovering log #54
+2021/05/27-16:10:38.662 1a54 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000054.log 
+2021/05/27-16:10:49.560 1a54 Level-0 table #60: started
+2021/05/27-16:10:49.586 1a54 Level-0 table #60: 1870482 bytes OK
+2021/05/27-16:10:49.590 1a54 Delete type=0 #54
+2021/05/27-16:10:49.593 1a54 Compacting 1@1 + 2@2 files
+2021/05/27-16:10:49.612 1a54 Level-0 table #63: started
+2021/05/27-16:10:49.649 1a54 Level-0 table #63: 2035530 bytes OK
+2021/05/27-16:10:49.654 1a54 Delete type=0 #59
+2021/05/27-16:10:49.671 1a54 Generated table #61@1: 2649 keys, 2141531 bytes
+2021/05/27-16:10:49.691 1a54 Generated table #64@1: 5042 keys, 1198148 bytes
+2021/05/27-16:10:49.691 1a54 Compacted 1@1 + 2@2 files => 3339679 bytes
+2021/05/27-16:10:49.695 1a54 compacted to: files[ 1 0 2 0 0 0 0 ]
+2021/05/27-16:10:49.695 1a54 Delete type=2 #57
+2021/05/27-16:10:49.695 1a54 Delete type=2 #56
+2021/05/27-16:10:49.695 1a54 Delete type=2 #60

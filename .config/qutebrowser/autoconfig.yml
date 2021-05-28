@@ -6,10 +6,5 @@
 
 config_version: 2
 settings:
-  content.notifications.enabled:
-    https://www.reddit.com: false
   url.default_page:
-    global: https://www.google.com
-  url.searchengines:
-    global:
-      DEFAULT: https://google.com/?q={}
+    global: www.google.com

@@ -1,5 +1,9 @@
 call plug#begin()
 
+Plug 'xuhdev/vim-latex-live-preview'
+
+Plug 'vim-latex/vim-latex'
+
 Plug 'lervag/vimtex'
 
 Plug 'honza/vim-snippets'
@@ -38,7 +42,7 @@ Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
 call plug#end()
 set number
 set relativenumber
-map <C-s> :w <return>
+map <C-s> :w <return> 
 map <S-z> :FZF <return>
 map qq :q! <return>
 map <C-n> :NERDTreeToggle <return>
@@ -53,7 +57,8 @@ let g:coc_global_extensions = [
 	\ 'coc-flutter',
   \ 'coc-flutter-tools',
   \ 'coc-emmet',
-  \ 'coc-snippets'
+  \ 'coc-snippets',
+  \ 'coc-vimtex'
   \ ]
 set updatetime=20
 
@@ -83,8 +88,17 @@ inoremap <buffer> ;t <esc>yiwi<lt><esc>ea></><esc>hpF>a
 
 inoremap <buffer> ;st <esc>bi</<esc>ea>
 
- 
-" a:arg
+
+
+
+
+
+
+
+
+
+
+
 
 
 let g:livepreview_previewer = 'zathura'

@@ -1,15 +1,14 @@
-2021/05/25-18:12:11.021 310 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/25-18:12:11.021 310 Recovering log #172
-2021/05/25-18:12:11.024 310 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000172.log 
-2021/05/25-18:14:22.950 8a1 Level-0 table #177: started
-2021/05/25-18:14:22.969 8a1 Level-0 table #177: 375632 bytes OK
-2021/05/25-18:14:22.974 8a1 Delete type=0 #172
-2021/05/25-18:14:22.975 8a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/25-18:14:22.975 8a1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 145540 : 1
-2021/05/25-18:14:22.975 8a1 Compacting 1@1 + 1@2 files
-2021/05/25-18:14:22.984 8a1 Generated table #178@1: 395 keys, 12629 bytes
-2021/05/25-18:14:22.984 8a1 Compacted 1@1 + 1@2 files => 12629 bytes
-2021/05/25-18:14:22.989 8a1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/25-18:14:22.989 8a1 Delete type=2 #177
-2021/05/25-18:14:22.989 8a1 Delete type=2 #174
-2021/05/25-18:14:22.990 8a1 Manual compaction at level-1 from '\x00\x05\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 145540 : 1 .. (end); will stop at (end)
+2021/05/28-07:13:56.603 3b4d Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-07:13:56.603 3b4d Recovering log #192
+2021/05/28-07:13:56.606 3b4d Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000192.log 
+2021/05/28-07:13:56.607 3b4d Delete type=2 #190
+2021/05/28-07:13:58.942 3b4e Level-0 table #197: started
+2021/05/28-07:13:58.950 3b4e Level-0 table #197: 173747 bytes OK
+2021/05/28-07:13:58.954 3b4e Delete type=0 #192
+2021/05/28-07:13:58.955 3b4e Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/28-07:16:27.723 3c5b Compacting 1@1 + 1@2 files
+2021/05/28-07:16:27.734 3c5b Generated table #198@1: 420 keys, 16509 bytes
+2021/05/28-07:16:27.734 3c5b Compacted 1@1 + 1@2 files => 16509 bytes
+2021/05/28-07:16:27.738 3c5b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/28-07:16:27.739 3c5b Delete type=2 #194
+2021/05/28-07:16:27.739 3c5b Delete type=2 #197

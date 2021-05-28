@@ -1,19 +1,5 @@
-if [[ -z "$1" ]]; then
-  printf "Search query: "; 
-  query=$( echo | dmenu -p "Search YT Video:" )
-else
-	query="$1"
-fi
+m="$(echo -e "Video\nVidegs" | dmenu -fn "Ubuntu-20" -p "QUERY: -i")" 
+n="$(youtube-dl -j ytsearch2:"$m")" 
+"$n" | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv -
 
-query="${query// /+}"
-echo "$query"
-
-# YT_API_KEY location
-YT_API_KEY="$( cat "${HOME}"/.api_keys/YT_API_KEY )"
-urlstring="https://www.googleapis.com/youtube/v3/search?part=snippet&q=${query}&type=video&maxResults=20&key=${YT_API_KEY}"
-
-mpv "https://$( curl -s "${urlstring}" \
-	| jq -r '.items[] | "\(.snippet.channelTitle) => \(.snippet.title) => youtu.be/\(.id.videoId)"' \
-	| dmenu -i -p 'Select Video -' -l 20 \
-	| awk '{print $NF}' \
-)"
+# https://www.youtube.com/results?search_query=what+the+heck

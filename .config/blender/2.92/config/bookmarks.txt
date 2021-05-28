@@ -1,4 +1,6 @@
 [Bookmarks]
 [Recent]
+!Home
+/home/darshan/
 /home/darshan/Desktop/
 /home/darshan/Downloads/

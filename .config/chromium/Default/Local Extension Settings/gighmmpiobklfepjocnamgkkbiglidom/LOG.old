@@ -1,40 +1,8 @@
-2021/05/25-16:19:00.152 ce31 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2021/05/25-16:19:00.152 ce31 Recovering log #1273
-2021/05/25-16:19:00.152 ce31 Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001273.log 
-2021/05/25-16:20:02.095 ce31 Level-0 table #1277: started
-2021/05/25-16:20:02.192 ce31 Level-0 table #1277: 5704076 bytes OK
-2021/05/25-16:20:02.196 ce31 Delete type=0 #1273
-2021/05/25-16:20:02.197 ce31 Compacting 4@0 + 2@1 files
-2021/05/25-16:20:02.253 ce31 Generated table #1278@0: 1 keys, 5703947 bytes
-2021/05/25-16:20:02.257 ce31 Generated table #1279@0: 8 keys, 441 bytes
-2021/05/25-16:20:02.257 ce31 Compacted 4@0 + 2@1 files => 5704388 bytes
-2021/05/25-16:20:02.261 ce31 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1272
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1266
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1277
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1274
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1267
-2021/05/25-16:20:02.261 ce31 Delete type=2 #1269
-2021/05/25-16:32:19.887 d0ca Level-0 table #1281: started
-2021/05/25-16:32:19.975 d0ca Level-0 table #1281: 5704145 bytes OK
-2021/05/25-16:32:19.979 d0ca Delete type=0 #1276
-2021/05/25-17:20:03.122 d407 Level-0 table #1283: started
-2021/05/25-17:20:03.175 d407 Level-0 table #1283: 5704012 bytes OK
-2021/05/25-17:20:03.181 d407 Delete type=0 #1280
-2021/05/25-17:20:03.365 d3df Level-0 table #1285: started
-2021/05/25-17:20:03.410 d3df Level-0 table #1285: 5703955 bytes OK
-2021/05/25-17:20:03.415 d3df Delete type=0 #1282
-2021/05/25-17:47:21.993 d4c4 Level-0 table #1287: started
-2021/05/25-17:47:22.042 d4c4 Level-0 table #1287: 5704141 bytes OK
-2021/05/25-17:47:22.048 d4c4 Delete type=0 #1284
-2021/05/25-17:47:22.050 d4c4 Compacting 4@0 + 2@1 files
-2021/05/25-17:47:22.180 d4c4 Generated table #1288@0: 1 keys, 5703947 bytes
-2021/05/25-17:47:22.187 d4c4 Generated table #1289@0: 8 keys, 441 bytes
-2021/05/25-17:47:22.187 d4c4 Compacted 4@0 + 2@1 files => 5704388 bytes
-2021/05/25-17:47:22.191 d4c4 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1278
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1285
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1279
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1281
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1287
-2021/05/25-17:47:22.191 d4c4 Delete type=2 #1283
+2021/05/28-07:43:23.418 48a0 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/05/28-07:43:23.419 48a0 Recovering log #1674
+2021/05/28-07:43:23.450 48a0 Level-0 table #1677: started
+2021/05/28-07:43:23.499 48a0 Level-0 table #1677: 5700945 bytes OK
+2021/05/28-07:43:23.505 48a0 Delete type=0 #1674
+2021/05/28-07:44:25.977 48a0 Level-0 table #1680: started
+2021/05/28-07:44:26.025 48a0 Level-0 table #1680: 5701041 bytes OK
+2021/05/28-07:44:26.030 48a0 Delete type=0 #1678

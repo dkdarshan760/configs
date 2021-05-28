@@ -23,7 +23,7 @@ set $menu dmenu_path | dmenu -b  -l 5 -fn Ubuntu -sb white -sf black -nb black -
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/darshan/.kde4/share/wallpapers/wallhaven-night.png fill
+output * bg /usr/share/backgrounds/archlinux/wave.png fill
 #
 # Example configuration:
 #
@@ -146,9 +146,9 @@ output * bg /home/darshan/.kde4/share/wallpapers/wallhaven-night.png fill
     bindsym $mod+v splitv
 
     # Switch the current container between different layout styles
-    bindsym $mod+s layout stacking
-    bindsym $mod+w layout tabbed
-    bindsym $mod+e layout toggle split
+    #bindsym $mod+s layout stacking
+    #bindsym $mod+w layout tabbed
+    #bindsym $mod+e layout toggle split
 
     # Make the current focus fullscreen
     bindsym $mod+f fullscreen
@@ -243,7 +243,6 @@ gaps outer 20
 
 
 
-
 #Switching Keyboard Layouts
 
 
@@ -270,6 +269,6 @@ bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pd
 
 
 
-bindsym $mod+n exec alacritty --command nvim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
+bindsym $mod+n exec alacritty --command vim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
 
-bindsym $mod+u exec echo -e "something" | dmenu -fn "Ubuntu-20" | xargs -I {} youtubedl -j ytsearch10:"{}"  | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 
+bindsym $mod+u exec echo -e "something" | dmenu -fn "Ubuntu-20" -p "QUERY" | xargs -I % 'youtubedl -j ytsearch10:"%"'  | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 

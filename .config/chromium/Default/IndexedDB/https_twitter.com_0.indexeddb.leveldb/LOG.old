@@ -1,15 +1,15 @@
-2021/05/24-10:15:46.668 1c87 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/24-10:15:46.668 1c87 Recovering log #42
-2021/05/24-10:15:46.668 1c87 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000042.log 
-2021/05/24-10:18:04.996 1c8e Level-0 table #47: started
-2021/05/24-10:18:05.008 1c8e Level-0 table #47: 2611 bytes OK
-2021/05/24-10:18:05.013 1c8e Delete type=0 #42
-2021/05/24-10:18:05.013 1c8e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/24-10:18:05.013 1c8e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 7763 : 0
-2021/05/24-10:18:05.013 1c8e Compacting 1@1 + 1@2 files
-2021/05/24-10:18:05.017 1c8e Generated table #48@1: 59 keys, 1671 bytes
-2021/05/24-10:18:05.018 1c8e Compacted 1@1 + 1@2 files => 1671 bytes
-2021/05/24-10:18:05.022 1c8e compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/24-10:18:05.022 1c8e Delete type=2 #44
-2021/05/24-10:18:05.022 1c8e Delete type=2 #47
-2021/05/24-10:18:05.022 1c8e Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 7763 : 0 .. (end); will stop at (end)
+2021/05/25-18:00:46.137 d65a Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-18:00:46.137 d65a Recovering log #46
+2021/05/25-18:00:46.138 d65a Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000046.log 
+2021/05/25-18:01:51.247 d65a Level-0 table #51: started
+2021/05/25-18:01:51.258 d65a Level-0 table #51: 4315 bytes OK
+2021/05/25-18:01:51.262 d65a Delete type=0 #46
+2021/05/25-18:01:51.262 d65a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/25-18:01:51.262 d65a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x006\x002\x001\x009\x004\x004\x009\x004\x007\x001\x008\x005' @ 7876 : 1
+2021/05/25-18:01:51.262 d65a Compacting 1@1 + 1@2 files
+2021/05/25-18:01:51.266 d65a Generated table #52@1: 58 keys, 1496 bytes
+2021/05/25-18:01:51.266 d65a Compacted 1@1 + 1@2 files => 1496 bytes
+2021/05/25-18:01:51.269 d65a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-18:01:51.270 d65a Delete type=2 #51
+2021/05/25-18:01:51.270 d65a Delete type=2 #48
+2021/05/25-18:01:51.270 d65a Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x006\x002\x001\x009\x004\x004\x009\x004\x007\x001\x008\x005' @ 7876 : 1 .. (end); will stop at (end)

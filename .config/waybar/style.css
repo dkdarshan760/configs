@@ -102,7 +102,7 @@ window#waybar.termite {
 }
 
 #battery {
-    background-color: #ffffff;
+    background-color: blue;
     color: white;
 }
 
@@ -139,15 +139,17 @@ label:focus {
 
 #memory {
     background-color: #9b59c6;
-    color: white;
+    color: black;
 }
 
 #disk {
     background-color: #964B00;
+    color: black;
 }
 
 #backlight {
     background-color: #90b1b1;
+    color: black;
 }
 
 #network {
@@ -184,6 +186,7 @@ label:focus {
 
 #temperature {
     background-color: #f0932b;
+    color: black;
 }
 
 #temperature.critical {
@@ -225,5 +228,4 @@ label:focus {
     color: #740864;
     padding: 0 5px;
     margin: 0 5px;
-    min-width: 16px;
 }

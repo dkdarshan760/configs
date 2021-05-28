@@ -547,7 +547,7 @@
        x="0"
        y="0"
        w="457"
-       h="494"
+       h="441"
        visible="1"
        state="2"
        placement="2" />
@@ -580,7 +580,14 @@
        placement="1" />
     <group
        id="preferences"
-       state="1" />
+       state="1"
+       page="0"
+       x="457"
+       y="73"
+       w="1005"
+       h="934"
+       visible="0"
+       placement="1" />
     <group
        id="gradienteditor" />
     <group
@@ -599,7 +606,7 @@
        placement="1">
       <group
          id="exportarea"
-         value="drawing" />
+         value="page" />
       <group
          id="defaultxdpi"
          value="157.2" />
@@ -869,10 +876,10 @@
        remove="1" />
     <group
        id="blurquality"
-       value="0" />
+       value="-2" />
     <group
        id="filterquality"
-       value="1" />
+       value="-1" />
     <group
        id="showfiltersinfobox"
        value="1" />
@@ -952,7 +959,8 @@
     <group
        id="workarounds"
        colorsontop="0"
-       partialdynamic="0" />
+       partialdynamic="0"
+       dynamicnotdone="0" />
     <group
        id="rendering" />
     <group
@@ -1071,7 +1079,7 @@
      language="" />
   <group
      id="theme"
-     defaultTheme="Breeze"
+     defaultTheme="HighContrastInverse"
      defaultIconTheme="Mkos-Big-Sur"
      gtkTheme="Breeze"
      iconTheme="Mkos-Big-Sur"
