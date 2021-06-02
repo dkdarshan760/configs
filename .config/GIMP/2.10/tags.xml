@@ -1303,6 +1303,39 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
+  <resource identifier="Akaash Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiMal1" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiMal1 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiMal2" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiMal2 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiTml1" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiTml1 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiTml2" checksum="(null)">
+  </resource>
+
+  <resource identifier="AkrutiTml2 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Akshar Unicode" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aparajita" checksum="(null)">
+  </resource>
+
   <resource identifier="C059" checksum="(null)">
   </resource>
 
@@ -1343,6 +1376,9 @@
   </resource>
 
   <resource identifier="D050000L" checksum="(null)">
+  </resource>
+
+  <resource identifier="Eczar" checksum="(null)">
   </resource>
 
   <resource identifier="Font Awesome 5 Brands" checksum="(null)">
@@ -1388,6 +1424,15 @@
   </resource>
 
   <resource identifier="FreeSerif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gargi-1.2b Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="GurbaniBoliLite Medium Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="GurbaniBoliLite Thin Ultra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Hack" checksum="(null)">
@@ -1438,6 +1483,18 @@
   <resource identifier="Liberation Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Likhan Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lohit Devanagari" checksum="(null)">
+  </resource>
+
+  <resource identifier="malayalam" checksum="(null)">
+  </resource>
+
+  <resource identifier="MalOtf" checksum="(null)">
+  </resource>
+
   <resource identifier="Monospace" checksum="(null)">
   </resource>
 
@@ -1448,6 +1505,15 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mukti Narrow" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mukti Narrow Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mukti Narrow Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -1496,6 +1562,9 @@
   </resource>
 
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
@@ -3379,6 +3448,9 @@
   <resource identifier="Open Sans Ultra-Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="orya Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="P052" checksum="(null)">
   </resource>
 
@@ -3389,6 +3461,24 @@
   </resource>
 
   <resource identifier="P052 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="padmaa Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="padmaa Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pothana2000" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sagar Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sampige" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sanskrit Text" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">
@@ -3506,6 +3596,30 @@
   </resource>
 
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="TAMu_Kadambri" checksum="(null)">
+  </resource>
+
+  <resource identifier="TAMu_Kalyani" checksum="(null)">
+  </resource>
+
+  <resource identifier="TAMu_Maduram" checksum="(null)">
+  </resource>
+
+  <resource identifier="TSCu_Comic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TSCu_Paranar" checksum="(null)">
+  </resource>
+
+  <resource identifier="TSCu_Paranar Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TSCu_Paranar Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="TSCu_Times" checksum="(null)">
   </resource>
 
   <resource identifier="Ubuntu" checksum="(null)">

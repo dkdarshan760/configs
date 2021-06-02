@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <inkscape
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1">
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
   <group
      id="window">
     <group
@@ -105,11 +105,14 @@
     <sodipodi:namedview
        id="base"
        pagecolor="#ffffff"
-       bordercolor="#666666"
-       borderopacity="1.0"
+       pageopacity="0"
+       pagecheckerboard="0"
+       bordercolor="#999999"
+       borderopacity="1"
        objecttolerance="10.0"
        gridtolerance="10.0"
        guidetolerance="10.0"
+       pageshadow="0"
        inkscape:pageopacity="0.0"
        inkscape:pageshadow="2"
        inkscape:window-width="640"
@@ -127,13 +130,14 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="624.185"
-         height="660.458"
+         width="450.425"
+         height="680.072"
          ry="0" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
-         usecurrent="1">
+         usecurrent="1"
+         persp="perspective143">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -209,7 +213,9 @@
        tracebackground="0"
        usepressure="1"
        usetilt="0"
-       keep_selected="1">
+       keep_selected="1"
+       abs_width="1"
+       unit="mm">
       <group
          id="preset">
         <group
@@ -543,7 +549,7 @@
        id="toolbox" />
     <group
        id="fillstroke"
-       page="0"
+       page="1"
        x="0"
        y="0"
        w="457"
@@ -561,7 +567,9 @@
     <group
        id="align" />
     <group
-       id="xml" />
+       id="xml"
+       h="500"
+       w="300" />
     <group
        id="find" />
     <group
@@ -663,7 +671,9 @@
        id="treeeditor" />
     <group
        id="layers"
-       maxDepth="20" />
+       maxDepth="20"
+       w="200"
+       h="300" />
     <group
        id="extensioneditor" />
     <group
@@ -966,21 +976,32 @@
     <group
        id="font"
        unitType="2" />
+    <group
+       id="defaultwindowsize"
+       value="2" />
+    <group
+       id="boot"
+       canvas="light"
+       theme="colorful">
+      <group
+         id="shown"
+         ver1.1="1" />
+    </group>
   </group>
   <group
      id="extensions"
      org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality" />
   <group
      id="desktop"
-     style="fill:#000000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;stroke:#f9f9f9">
+     style="fill:#000000;-inkscape-font-specification:'Sanskrit Text';font-family:'Sanskrit Text';stroke:#f9f9f9">
     <group
        width="1916"
        height="1016"
        x="0"
        y="45"
+       maximized="1"
        fullscreen="0"
-       id="geometry"
-       maximized="1" />
+       id="geometry" />
     <group
        id="XYfront" />
     <group
@@ -1081,9 +1102,23 @@
      id="theme"
      defaultTheme="HighContrastInverse"
      defaultIconTheme="Mkos-Big-Sur"
-     gtkTheme="Breeze"
-     iconTheme="Mkos-Big-Sur"
+     gtkTheme="Adwaita"
      menuIcons_canvas="0"
      menuIcons_layers="0"
-     menuIcons_objects="0" />
+     menuIcons_objects="0"
+     defaultPreferDarkTheme="0"
+     defaultGtkTheme="HighContrastInverse"
+     preferDarkTheme="1"
+     darkTheme="1"
+     iconTheme="multicolor"
+     symbolicIcons="1"
+     symbolicDefaultBaseColors="0"
+     symbolicDefaultHighColors="0">
+    <group
+       id="multicolor"
+       symbolicBaseColor="3958107135"
+       symbolicSuccessColor="10029823"
+       symbolicWarningColor="4279865599"
+       symbolicErrorColor="10086143" />
+  </group>
 </inkscape>

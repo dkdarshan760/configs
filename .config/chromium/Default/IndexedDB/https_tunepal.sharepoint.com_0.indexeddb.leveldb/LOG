@@ -1,2 +1,7 @@
-2021/05/27-16:10:54.618 1c43 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_tunepal.sharepoint.com_0.indexeddb.leveldb since it was missing.
-2021/05/27-16:10:54.634 1c43 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_tunepal.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-10:13:01.684 7bd0 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_tunepal.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-10:13:01.684 7bd0 Recovering log #3
+2021/05/28-10:13:01.685 7bd0 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_tunepal.sharepoint.com_0.indexeddb.leveldb/000003.log 
+2021/05/28-10:13:46.248 7bd0 Level-0 table #5: started
+2021/05/28-10:13:46.254 7bd0 Level-0 table #5: 45436 bytes OK
+2021/05/28-10:13:46.258 7bd0 Delete type=0 #3
+2021/05/28-10:13:46.258 7bd0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

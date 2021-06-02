@@ -23,7 +23,7 @@ set $menu dmenu_path | dmenu -b  -l 5 -fn Ubuntu -sb white -sf black -nb black -
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/archlinux/wave.png fill
+output * bg /usr/share/backgrounds/archlinux/sunset.jpg fill
 #
 # Example configuration:
 #
@@ -268,7 +268,11 @@ bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pd
 #all file searcher and openeer
 
 
-
 bindsym $mod+n exec alacritty --command vim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
 
 bindsym $mod+u exec echo -e "something" | dmenu -fn "Ubuntu-20" -p "QUERY" | xargs -I % 'youtubedl -j ytsearch10:"%"'  | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 
+
+
+#clipboard and play mpv youtube
+
+bindsym $mod+y exec mpv `wl-paste`

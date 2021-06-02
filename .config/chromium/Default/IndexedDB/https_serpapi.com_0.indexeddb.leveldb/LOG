@@ -1,0 +1,6 @@
+2021/05/28-19:33:35.147 3193 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_serpapi.com_0.indexeddb.leveldb since it was missing.
+2021/05/28-19:33:35.167 3193 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_serpapi.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-19:33:43.247 3193 Level-0 table #5: started
+2021/05/28-19:33:43.250 3193 Level-0 table #5: 10908 bytes OK
+2021/05/28-19:33:43.254 3193 Delete type=0 #3
+2021/05/28-19:33:43.256 323e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

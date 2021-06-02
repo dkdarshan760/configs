@@ -1,17 +1,13 @@
-2021/05/26-11:55:32.037 317e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/26-11:55:32.037 317e Recovering log #49
-2021/05/26-11:55:32.037 317e Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000049.log 
-2021/05/26-11:55:34.056 317e Level-0 table #55: started
-2021/05/26-11:55:34.062 317e Level-0 table #55: 531 bytes OK
-2021/05/26-11:55:34.067 317e Delete type=0 #49
-2021/05/26-11:55:34.067 317e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/26-11:55:34.067 317e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x02\x03\x00@~\xbct\x9awB' @ 65307 : 1
-2021/05/26-11:55:34.067 317e Compacting 1@1 + 2@2 files
-2021/05/26-11:55:34.125 317e Generated table #56@1: 4610 keys, 2154983 bytes
-2021/05/26-11:55:34.139 317e Generated table #57@1: 1454 keys, 549176 bytes
-2021/05/26-11:55:34.140 317e Compacted 1@1 + 2@2 files => 2704159 bytes
-2021/05/26-11:55:34.143 317e compacted to: files[ 0 0 2 0 0 0 0 ]
-2021/05/26-11:55:34.144 317e Delete type=2 #51
-2021/05/26-11:55:34.144 317e Delete type=2 #52
-2021/05/26-11:55:34.144 317e Delete type=2 #55
-2021/05/26-11:55:34.145 317e Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00@~\xbct\x9awB' @ 65307 : 1 .. (end); will stop at (end)
+2021/06/01-13:50:02.468 105fd Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-13:50:02.468 105fd Recovering log #91
+2021/06/01-13:50:02.477 105fd Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000091.log 
+2021/06/01-13:50:05.858 10620 Moved #92 to level-1 2035676 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2021/06/01-13:50:07.004 10620 Compacting 1@1 + 2@2 files
+2021/06/01-13:50:07.027 10620 Generated table #95@1: 4470 keys, 2125477 bytes
+2021/06/01-13:50:07.076 10620 Generated table #96@1: 4623 keys, 2154281 bytes
+2021/06/01-13:50:07.085 10620 Generated table #97@1: 1465 keys, 463572 bytes
+2021/06/01-13:50:07.085 10620 Compacted 1@1 + 2@2 files => 4743330 bytes
+2021/06/01-13:50:07.091 10620 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/06/01-13:50:07.092 10620 Delete type=2 #93
+2021/06/01-13:50:07.092 10620 Delete type=2 #92
+2021/06/01-13:50:07.092 10620 Delete type=2 #90

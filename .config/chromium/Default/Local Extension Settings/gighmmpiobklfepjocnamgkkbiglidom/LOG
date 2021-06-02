@@ -1,39 +1,20 @@
-2021/05/28-08:37:24.738 5931 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2021/05/28-08:37:24.738 5931 Recovering log #1679
-2021/05/28-08:37:24.766 5931 Level-0 table #1682: started
-2021/05/28-08:37:24.834 5931 Level-0 table #1682: 5700952 bytes OK
-2021/05/28-08:37:24.842 5931 Delete type=0 #1679
-2021/05/28-08:37:24.844 5947 Compacting 4@0 + 2@1 files
-2021/05/28-08:37:24.959 5947 Generated table #1684@0: 1 keys, 5700952 bytes
-2021/05/28-08:37:24.965 5947 Generated table #1685@0: 8 keys, 445 bytes
-2021/05/28-08:37:24.965 5947 Compacted 4@0 + 2@1 files => 5701397 bytes
-2021/05/28-08:37:24.969 5947 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/28-08:38:27.481 5930 Level-0 table #1687: started
-2021/05/28-08:38:27.576 5930 Level-0 table #1687: 5701086 bytes OK
-2021/05/28-08:38:27.582 5930 Delete type=2 #1675
-2021/05/28-08:38:27.582 5930 Delete type=2 #1682
-2021/05/28-08:38:27.582 5930 Delete type=2 #1677
-2021/05/28-08:38:27.582 5930 Delete type=2 #1671
-2021/05/28-08:38:27.582 5930 Delete type=2 #1672
-2021/05/28-08:38:27.582 5930 Delete type=2 #1680
-2021/05/28-08:38:27.582 5930 Delete type=0 #1683
-2021/05/28-08:38:28.559 5930 Level-0 table #1689: started
-2021/05/28-08:38:28.610 5930 Level-0 table #1689: 5700951 bytes OK
-2021/05/28-08:38:28.616 5930 Delete type=0 #1686
-2021/05/28-08:38:29.707 5931 Level-0 table #1691: started
-2021/05/28-08:38:29.808 5931 Level-0 table #1691: 5701153 bytes OK
-2021/05/28-08:38:29.814 5931 Delete type=0 #1688
-2021/05/28-08:38:50.664 5950 Level-0 table #1693: started
-2021/05/28-08:38:50.757 5950 Level-0 table #1693: 5700953 bytes OK
-2021/05/28-08:38:50.762 5950 Delete type=0 #1690
-2021/05/28-08:38:50.763 5950 Compacting 4@0 + 2@1 files
-2021/05/28-08:38:50.844 5950 Generated table #1694@0: 1 keys, 5700953 bytes
-2021/05/28-08:38:50.850 5950 Generated table #1695@0: 8 keys, 445 bytes
-2021/05/28-08:38:50.850 5950 Compacted 4@0 + 2@1 files => 5701398 bytes
-2021/05/28-08:38:50.854 5950 compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/05/28-08:38:50.854 5950 Delete type=2 #1685
-2021/05/28-08:38:50.854 5950 Delete type=2 #1687
-2021/05/28-08:38:50.854 5950 Delete type=2 #1693
-2021/05/28-08:38:50.854 5950 Delete type=2 #1689
-2021/05/28-08:38:50.854 5950 Delete type=2 #1691
-2021/05/28-08:38:50.854 5950 Delete type=2 #1684
+2021/06/02-19:26:47.660 6f9 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/06/02-19:26:47.661 6f9 Recovering log #2627
+2021/06/02-19:26:47.661 6f9 Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/002627.log 
+2021/06/02-19:27:50.278 6fc Level-0 table #2631: started
+2021/06/02-19:27:50.375 6fc Level-0 table #2631: 5824493 bytes OK
+2021/06/02-19:27:50.384 6fc Delete type=0 #2627
+2021/06/02-19:29:23.034 95c Level-0 table #2633: started
+2021/06/02-19:29:23.080 95c Level-0 table #2633: 5824342 bytes OK
+2021/06/02-19:29:23.085 95c Delete type=0 #2630
+2021/06/02-19:29:23.086 95c Compacting 4@0 + 2@1 files
+2021/06/02-19:29:23.199 95c Generated table #2634@0: 1 keys, 5824342 bytes
+2021/06/02-19:29:23.206 95c Generated table #2635@0: 8 keys, 447 bytes
+2021/06/02-19:29:23.206 95c Compacted 4@0 + 2@1 files => 5824789 bytes
+2021/06/02-19:29:23.209 95c compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/06/02-19:29:23.210 95c Delete type=2 #2624
+2021/06/02-19:29:23.210 95c Delete type=2 #2628
+2021/06/02-19:29:23.210 95c Delete type=2 #2626
+2021/06/02-19:29:23.210 95c Delete type=2 #2631
+2021/06/02-19:29:23.210 95c Delete type=2 #2633
+2021/06/02-19:29:23.210 95c Delete type=2 #2625

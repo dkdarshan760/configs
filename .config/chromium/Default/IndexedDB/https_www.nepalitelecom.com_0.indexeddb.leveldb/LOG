@@ -1,0 +1,6 @@
+2021/06/01-12:51:58.281 52d3 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_www.nepalitelecom.com_0.indexeddb.leveldb since it was missing.
+2021/06/01-12:51:58.297 52d3 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.nepalitelecom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-13:00:48.123 5551 Level-0 table #5: started
+2021/06/01-13:00:48.127 5551 Level-0 table #5: 6392 bytes OK
+2021/06/01-13:00:48.131 5551 Delete type=0 #3
+2021/06/01-13:00:48.131 5551 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

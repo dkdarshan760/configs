@@ -1,15 +1,15 @@
-2021/05/22-10:22:00.431 2dd5 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/22-10:22:00.431 2dd5 Recovering log #11
-2021/05/22-10:22:00.431 2dd5 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000011.log 
-2021/05/22-10:22:14.759 2e48 Level-0 table #16: started
-2021/05/22-10:22:14.766 2e48 Level-0 table #16: 596 bytes OK
-2021/05/22-10:22:14.770 2e48 Delete type=0 #11
-2021/05/22-10:22:14.770 2e48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/22-10:22:14.770 2e48 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x001\x004\x006\x001\x00_\x001\x006\x002\x001\x006\x005\x008\x002\x002\x003\x004\x005\x007' @ 116 : 1
-2021/05/22-10:22:14.770 2e48 Compacting 1@1 + 1@2 files
-2021/05/22-10:22:14.773 2e48 Generated table #17@1: 35 keys, 1092 bytes
-2021/05/22-10:22:14.773 2e48 Compacted 1@1 + 1@2 files => 1092 bytes
-2021/05/22-10:22:14.777 2e48 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/22-10:22:14.777 2e48 Delete type=2 #13
-2021/05/22-10:22:14.777 2e48 Delete type=2 #16
-2021/05/22-10:22:14.778 2e48 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x001\x004\x006\x001\x00_\x001\x006\x002\x001\x006\x005\x008\x002\x002\x003\x004\x005\x007' @ 116 : 1 .. (end); will stop at (end)
+2021/06/01-09:58:50.785 1c94 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-09:58:50.785 1c94 Recovering log #15
+2021/06/01-09:58:50.786 1c94 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000015.log 
+2021/06/01-09:59:33.580 1c8f Level-0 table #20: started
+2021/06/01-09:59:33.584 1c8f Level-0 table #20: 631 bytes OK
+2021/06/01-09:59:33.588 1c8f Delete type=0 #15
+2021/06/01-09:59:33.588 1c8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/01-09:59:33.588 1c8f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x002\x008\x004\x001\x00_\x001\x006\x002\x002\x005\x002\x000\x008\x003\x003\x007\x002\x007' @ 128 : 1
+2021/06/01-09:59:33.588 1c8f Compacting 1@1 + 1@2 files
+2021/06/01-09:59:33.592 1c8f Generated table #21@1: 38 keys, 1190 bytes
+2021/06/01-09:59:33.592 1c8f Compacted 1@1 + 1@2 files => 1190 bytes
+2021/06/01-09:59:33.596 1c8f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/01-09:59:33.597 1c8f Delete type=2 #20
+2021/06/01-09:59:33.597 1c8f Delete type=2 #17
+2021/06/01-09:59:33.597 1c8f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x002\x008\x004\x001\x00_\x001\x006\x002\x002\x005\x002\x000\x008\x003\x003\x007\x002\x007' @ 128 : 1 .. (end); will stop at (end)

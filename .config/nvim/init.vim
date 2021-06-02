@@ -60,7 +60,7 @@ let g:coc_global_extensions = [
   \ 'coc-snippets',
   \ 'coc-vimtex'
   \ ]
-set updatetime=20
+set updatetime=500
 
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? "\<C-n>" :
@@ -89,12 +89,15 @@ inoremap <buffer> ;t <esc>yiwi<lt><esc>ea></><esc>hpF>a
 inoremap <buffer> ;st <esc>bi</<esc>ea>
 
 
+inoremap <buffer> ;lef \left(   \right) <++><esc>12hi
+
+inoremap <buffer> ;df \dfrac{    }{<++>} <++><esc>13hi
+
+inoremap <buffer> ;s \section{}<esc>i
 
 
-
-
-
-
+inoremap <buffer> ;u \subsection{}<esc>i
+inoremap <buffer> ;b \subsubsection{}<esc>i
 
 
 
@@ -103,3 +106,4 @@ inoremap <buffer> ;st <esc>bi</<esc>ea>
 
 let g:livepreview_previewer = 'zathura'
 let g:livepreview_engine = 'pdflatex'
+let g:pdf_update_signal = 'SIGHUP'

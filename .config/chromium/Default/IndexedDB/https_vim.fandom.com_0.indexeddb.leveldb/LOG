@@ -1,15 +1,3 @@
-2021/05/22-10:22:01.920 2c5e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/22-10:22:01.920 2c5e Recovering log #11
-2021/05/22-10:22:01.920 2c5e Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/000011.log 
-2021/05/22-10:22:14.782 2e48 Level-0 table #16: started
-2021/05/22-10:22:14.786 2e48 Level-0 table #16: 613 bytes OK
-2021/05/22-10:22:14.790 2e48 Delete type=0 #11
-2021/05/22-10:22:14.790 2e48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/22-10:22:14.790 2e48 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x001\x004\x006\x001\x00_\x001\x006\x002\x001\x006\x005\x008\x002\x002\x001\x003\x007\x009' @ 115 : 1
-2021/05/22-10:22:14.790 2e48 Compacting 1@1 + 1@2 files
-2021/05/22-10:22:14.794 2e48 Generated table #17@1: 35 keys, 1086 bytes
-2021/05/22-10:22:14.794 2e48 Compacted 1@1 + 1@2 files => 1086 bytes
-2021/05/22-10:22:14.798 2e48 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/22-10:22:14.798 2e48 Delete type=2 #13
-2021/05/22-10:22:14.798 2e48 Delete type=2 #16
-2021/05/22-10:22:14.798 2e48 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x17\x002\x008\x002\x007\x00_\x001\x004\x006\x001\x00_\x001\x006\x002\x001\x006\x005\x008\x002\x002\x001\x003\x007\x009' @ 115 : 1 .. (end); will stop at (end)
+2021/06/01-09:58:52.184 1c8f Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-09:58:52.185 1c8f Recovering log #15
+2021/06/01-09:58:52.185 1c8f Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/000015.log 

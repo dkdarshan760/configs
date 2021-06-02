@@ -1,3 +1,9 @@
-2021/05/27-10:44:57.488 59f8 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/27-10:44:57.488 59f8 Recovering log #44
-2021/05/27-10:44:57.489 59f8 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000044.log 
+2021/06/01-17:34:56.155 320e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-17:34:56.155 320e Recovering log #48
+2021/06/01-17:34:56.156 320e Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000048.log 
+2021/06/01-17:35:00.356 320c Compacting 1@1 + 1@2 files
+2021/06/01-17:35:00.364 320c Generated table #51@1: 182 keys, 199241 bytes
+2021/06/01-17:35:00.364 320c Compacted 1@1 + 1@2 files => 199241 bytes
+2021/06/01-17:35:00.367 320c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/01-17:35:00.368 320c Delete type=2 #49
+2021/06/01-17:35:00.368 320c Delete type=2 #46

@@ -1,8 +1,15 @@
-2021/05/20-16:02:18.941 5111 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/20-16:02:18.942 5111 Recovering log #7
-2021/05/20-16:02:18.942 5111 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/000007.log 
-2021/05/20-16:03:05.905 52f5 Level-0 table #11: started
-2021/05/20-16:03:05.905 52f5 Level-0 table #11: 0 bytes OK
-2021/05/20-16:03:05.909 52f5 Delete type=0 #7
-2021/05/20-16:03:05.910 52f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/20-16:03:05.910 52f5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/06/01-06:45:00.929 1397 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/01-06:45:00.929 1397 Recovering log #10
+2021/06/01-06:45:00.930 1397 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/000010.log 
+2021/06/01-06:45:57.618 11a1 Level-0 table #14: started
+2021/06/01-06:45:57.622 11a1 Level-0 table #14: 10974 bytes OK
+2021/06/01-06:45:57.625 11a1 Delete type=0 #10
+2021/06/01-06:45:57.626 11a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/01-06:45:57.626 11a1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 117 : 1
+2021/06/01-06:45:57.626 11a1 Compacting 1@1 + 1@2 files
+2021/06/01-06:45:57.630 11a1 Generated table #15@1: 30 keys, 811 bytes
+2021/06/01-06:45:57.630 11a1 Compacted 1@1 + 1@2 files => 811 bytes
+2021/06/01-06:45:57.633 11a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/01-06:45:57.634 11a1 Delete type=2 #5
+2021/06/01-06:45:57.634 11a1 Delete type=2 #14
+2021/06/01-06:45:57.634 11a1 Manual compaction at level-1 from '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 117 : 1 .. (end); will stop at (end)
