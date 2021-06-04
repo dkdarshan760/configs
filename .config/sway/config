@@ -207,7 +207,7 @@ bar {
     }
 }
 
-bindsym $mod+f2 exec chromium
+bindsym $mod+f2 exec chromium "$(echo | dmenu -fn "sanskrit text-20" -nb black -sb blue | awk '{print "www." $1 ".com"}' )"
 include /etc/sway/config.d/*
 
 #some
@@ -263,16 +263,19 @@ exec dunst &
 
 #document file searcher and opener
 
-bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pdf' | dmenu -i -l 9 -fn "Ubuntu-20" -nb black -sb purple -p "YOUR PDF:")"
+bindsym $mod+c exec zathura "$(find $HOME/Documents $HOME/Downloads -iname '*.pdf' | dmenu -i -l 9 -fn "sanskrit text-20" -nb black -sb purple -p "YOUR PDF:")"
+bindsym $mod+f12 exec mpv "$(find $HOME/Videos -iname '*.mp4' | dmenu -i -l 9 -fn "sanskrit text-20" -nb black -sb purple -p "YOUR VIDEO:")"
 
 #all file searcher and openeer
+bindsym $mod+e exec notify-send "$(cat ~/.config/.bashScripts/NepaliCalender/date.txt)" "=============== \n $(date | awk ' { print $1 "day", $2, $3, $7 } ')"
 
-
-bindsym $mod+n exec alacritty --command vim "$( find $HOME/.config | dmenu -i -l 10 -fn "Ubuntu-20" -nb black -sb purple -p "EDIT your Config")"
-
-bindsym $mod+u exec echo -e "something" | dmenu -fn "Ubuntu-20" -p "QUERY" | xargs -I % 'youtubedl -j ytsearch10:"%"'  | jq '.fulltitle, .webpage_url' | dmenu -l 20 -fn "Ubuntu-20" -sb purple -p "VIDEO" | xargs mpv - 
-
+bindsym $mod+n exec alacritty --command vim "$( find $HOME/.config | dmenu -i -l 10 -fn "sanskrit text-20" -nb black -sb purple -p "EDIT your Config")"
 
 #clipboard and play mpv youtube
 
 bindsym $mod+y exec mpv `wl-paste`
+
+bindsym $mod+f5 exec /home/darshan/.config/.bashScripts/youtubFav/writeToFavs.sh
+bindsym $mod+f6 exec /home/darshan/.config/.bashScripts/youtubFav/playTheVideo.sh
+
+exec zsh ~/.config/.bashScripts/NepaliCalender/hamroPatro.sh

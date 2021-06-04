@@ -1,2 +1,7 @@
-2021/05/19-18:37:19.818 40d0 Creating DB /home/darshan/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
-2021/05/19-18:37:19.831 40d0 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-06:52:04.260 307e Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-06:52:04.260 307e Recovering log #3
+2021/05/28-06:52:04.260 307e Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000003.log 
+2021/05/28-06:52:10.932 2f01 Level-0 table #5: started
+2021/05/28-06:52:10.936 2f01 Level-0 table #5: 12409 bytes OK
+2021/05/28-06:52:10.940 2f01 Delete type=0 #3
+2021/05/28-06:52:10.940 2f01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

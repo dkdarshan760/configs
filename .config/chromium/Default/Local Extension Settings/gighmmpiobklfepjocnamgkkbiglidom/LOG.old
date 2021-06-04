@@ -1,26 +1,5 @@
-2021/06/02-19:19:50.408 2f9 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2021/06/02-19:19:50.408 2f9 Recovering log #2616
-2021/06/02-19:19:50.434 2f9 Level-0 table #2619: started
-2021/06/02-19:19:50.479 2f9 Level-0 table #2619: 5824336 bytes OK
-2021/06/02-19:19:50.485 2f9 Delete type=0 #2616
-2021/06/02-19:20:53.017 2c4 Level-0 table #2622: started
-2021/06/02-19:20:53.031 2c7 Current memtable full; waiting...
-2021/06/02-19:20:53.114 2c4 Level-0 table #2622: 5824497 bytes OK
-2021/06/02-19:20:53.119 2c4 Delete type=0 #2620
-2021/06/02-19:20:53.121 2c4 Compacting 4@0 + 2@1 files
-2021/06/02-19:20:53.181 2c4 Level-0 table #2624: started
-2021/06/02-19:20:53.227 2c4 Level-0 table #2624: 5824344 bytes OK
-2021/06/02-19:20:53.232 2c4 Delete type=0 #2621
-2021/06/02-19:20:53.275 2c4 Generated table #2625@0: 1 keys, 5824344 bytes
-2021/06/02-19:20:53.280 2c4 Generated table #2626@0: 8 keys, 447 bytes
-2021/06/02-19:20:53.280 2c4 Compacted 4@0 + 2@1 files => 5824791 bytes
-2021/06/02-19:20:53.284 2c4 compacted to: files[ 1 2 1 0 0 0 0 ]
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2622
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2612
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2611
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2619
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2617
-2021/06/02-19:20:53.284 2c4 Delete type=2 #2614
-2021/06/02-19:24:07.769 5f1 Level-0 table #2628: started
-2021/06/02-19:24:07.820 5f1 Level-0 table #2628: 5824537 bytes OK
-2021/06/02-19:24:07.825 5f1 Delete type=0 #2623
+2021/06/04-16:18:28.479 184d Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/06/04-16:18:28.480 184d Recovering log #2875
+2021/06/04-16:18:28.499 184d Level-0 table #2878: started
+2021/06/04-16:18:28.545 184d Level-0 table #2878: 5826769 bytes OK
+2021/06/04-16:18:28.551 184d Delete type=0 #2875

@@ -1,20 +1,20 @@
-2021/06/02-19:26:47.660 6f9 Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2021/06/02-19:26:47.661 6f9 Recovering log #2627
-2021/06/02-19:26:47.661 6f9 Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/002627.log 
-2021/06/02-19:27:50.278 6fc Level-0 table #2631: started
-2021/06/02-19:27:50.375 6fc Level-0 table #2631: 5824493 bytes OK
-2021/06/02-19:27:50.384 6fc Delete type=0 #2627
-2021/06/02-19:29:23.034 95c Level-0 table #2633: started
-2021/06/02-19:29:23.080 95c Level-0 table #2633: 5824342 bytes OK
-2021/06/02-19:29:23.085 95c Delete type=0 #2630
-2021/06/02-19:29:23.086 95c Compacting 4@0 + 2@1 files
-2021/06/02-19:29:23.199 95c Generated table #2634@0: 1 keys, 5824342 bytes
-2021/06/02-19:29:23.206 95c Generated table #2635@0: 8 keys, 447 bytes
-2021/06/02-19:29:23.206 95c Compacted 4@0 + 2@1 files => 5824789 bytes
-2021/06/02-19:29:23.209 95c compacted to: files[ 0 2 1 0 0 0 0 ]
-2021/06/02-19:29:23.210 95c Delete type=2 #2624
-2021/06/02-19:29:23.210 95c Delete type=2 #2628
-2021/06/02-19:29:23.210 95c Delete type=2 #2626
-2021/06/02-19:29:23.210 95c Delete type=2 #2631
-2021/06/02-19:29:23.210 95c Delete type=2 #2633
-2021/06/02-19:29:23.210 95c Delete type=2 #2625
+2021/06/04-16:23:17.090 1bdc Reusing MANIFEST /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/06/04-16:23:17.091 1bdc Recovering log #2879
+2021/06/04-16:23:17.091 1bdc Reusing old log /home/darshan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/002879.log 
+2021/06/04-16:24:19.538 1afb Level-0 table #2882: started
+2021/06/04-16:24:19.588 1afb Level-0 table #2882: 5826881 bytes OK
+2021/06/04-16:24:19.593 1afb Delete type=0 #2879
+2021/06/04-16:24:19.596 1afb Compacting 4@0 + 2@1 files
+2021/06/04-16:24:19.700 1afb Generated table #2883@0: 1 keys, 5826771 bytes
+2021/06/04-16:24:19.705 1afb Generated table #2884@0: 8 keys, 446 bytes
+2021/06/04-16:24:19.705 1afb Compacted 4@0 + 2@1 files => 5827217 bytes
+2021/06/04-16:24:19.709 1afb compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/06/04-16:24:19.709 1afb Delete type=2 #2871
+2021/06/04-16:24:19.709 1afb Delete type=2 #2882
+2021/06/04-16:24:19.709 1afb Delete type=2 #2870
+2021/06/04-16:24:19.709 1afb Delete type=2 #2878
+2021/06/04-16:24:19.709 1afb Delete type=2 #2876
+2021/06/04-16:24:19.710 1afb Delete type=2 #2873
+2021/06/04-16:26:40.002 1d80 Level-0 table #2886: started
+2021/06/04-16:26:40.057 1d80 Level-0 table #2886: 5826771 bytes OK
+2021/06/04-16:26:40.062 1d80 Delete type=0 #2881

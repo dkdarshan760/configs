@@ -1,6 +1,9 @@
-for
-eq
+date
 printf
+for
+switch
+switchndef
+eq
 diso
 color
 APACHE

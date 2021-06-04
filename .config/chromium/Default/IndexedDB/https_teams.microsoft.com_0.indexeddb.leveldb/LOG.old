@@ -1,13 +1,3 @@
-2021/06/01-13:50:02.468 105fd Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/06/01-13:50:02.468 105fd Recovering log #91
-2021/06/01-13:50:02.477 105fd Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000091.log 
-2021/06/01-13:50:05.858 10620 Moved #92 to level-1 2035676 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2021/06/01-13:50:07.004 10620 Compacting 1@1 + 2@2 files
-2021/06/01-13:50:07.027 10620 Generated table #95@1: 4470 keys, 2125477 bytes
-2021/06/01-13:50:07.076 10620 Generated table #96@1: 4623 keys, 2154281 bytes
-2021/06/01-13:50:07.085 10620 Generated table #97@1: 1465 keys, 463572 bytes
-2021/06/01-13:50:07.085 10620 Compacted 1@1 + 2@2 files => 4743330 bytes
-2021/06/01-13:50:07.091 10620 compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/06/01-13:50:07.092 10620 Delete type=2 #93
-2021/06/01-13:50:07.092 10620 Delete type=2 #92
-2021/06/01-13:50:07.092 10620 Delete type=2 #90
+2021/06/04-13:41:56.156 b6d6 Reusing MANIFEST /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-13:41:56.157 b6d6 Recovering log #120
+2021/06/04-13:41:56.189 b6d6 Reusing old log /home/darshan/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000120.log 
